@@ -13,9 +13,31 @@ function DisplayReadingList() {
 				? "<p>" + item.subtitle + "</p>"
 				: ""
 			)
-			+ "<h2>" + item.author + "</h2>"
-			+ "<p>No. Pages: " + item.numPages + "</p>"
-			+ "<table>"
+			+ "<h2>"
+			+ item.authors.join(", ")
+		 	+ "</h2>"
+			+ "<p>No. Pages: " + item.numPages + "</p>";
+
+
+			if (item.notes.length !== 0) {
+				ReadingListHTML
+					+= "<p>"
+					+ "<ul>"
+
+				item.notes.forEach((item, i) => {
+					ReadingListHTML
+						+= "<li>"
+						+ item
+						+ "</li>";
+				});
+
+				ReadingListHTML
+					+= "</ul>"
+					+ "</p>";
+			}
+
+		ReadingListHTML
+			+= "<table>"
 			+ "<thead><tr>"
 			+ "<th>Date</th>"
 			+ "<th colspan='2' style='text-align:center'>Start Page</th>"
@@ -36,7 +58,8 @@ function DisplayReadingList() {
 
 		ReadingListHTML
 			+= "</tbody>"
-			+ "</table>";
+			+ "</table>"
+			+ "<hr>";
 
 	});
 

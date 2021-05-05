@@ -1,9 +1,11 @@
 [{
 	"title": "The Heretic Peacekeeper",
 	"subtitle": "The Nine Heavens and Ten Earths: Book One",
-	"author": "Jeremy Bai",
+	"authors": [
+		"Jeremy Bai"
+	],
 	"numPages": 316,
-	"notes": "",
+	"notes": [],
 	"progress": [{
 			"date": "2021-05-03",
 			"startPage": 1,

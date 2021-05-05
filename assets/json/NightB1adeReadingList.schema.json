@@ -15,10 +15,15 @@
 				"type": "string",
 				"title": "Subtitle"
 			},
-			"author": {
-				"type": "string",
-				"title": "Author",
-				"minLength": 1
+			"authors": {
+				"type": "array",
+				"title": "Authors",
+				"uniqueItems": true,
+				"items": {
+					"type": "string",
+					"title": "Author",
+					"minLength": 1
+				}
 			},
 			"numPages": {
 				"type": "integer",
@@ -26,8 +31,14 @@
 				"minimum": 1
 			},
 			"notes": {
-				"type": "string",
-				"title": "Notes"
+				"type": "array",
+				"title": "Notes",
+				"uniqueItems": true,
+				"items": {
+					"type": "string",
+					"title": "Note",
+					"minLength": 1
+				}
 			},
 			"progress": {
 				"type": "array",
