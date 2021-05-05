@@ -1,23 +1,50 @@
 [{
-	"title": "The Heretic Peacekeeper"
-	, "subtitle": "The Nine Heavens and Ten Earths: Book One"
-	, "creators": [
-		"Jeremy Bai"
-	]
-	, "isbns": [
-		9798711260271
-	]
-	, "numPages": 316
-	, "notes": []
-	, "progress": [{
-			"date": "2021-05-03"
+		"title": "The Heretic Peacekeeper"
+		, "subtitle": "The Nine Heavens and Ten Earths: Book One"
+		, "creators": [
+			"Jeremy Bai"
+		]
+		, "isbns": [
+			9798711260271
+		]
+		, "numPages": 316
+		, "notes": []
+		, "progress": [{
+				"date": "2021-05-03"
+				, "startPage": 1
+				, "endPage": 215
+			}
+			, {
+				"date": "2021-05-04"
+				, "startPage": 216
+				, "endPage": 316
+			}
+		]
+	}
+	, {
+		"title": "Skyward"
+		, "subtitle": ""
+		, "creators": [
+			"Joe Henderson"
+			, "Lee Garbett"
+			, "Antonio Fabela"
+			, "Simon Bowland"
+		]
+		, "isbns": [
+			9781534311817
+			, 9781534314023
+			, 9781534315556
+		]
+		, "numPages": 406
+		, "notes": [
+			"ISBNs represent the collected volumes"
+			, "Comic series of 15 issues"
+			, "5 issues per volume"
+		]
+		, "progress": [{
+			"date": "2021-05-05"
 			, "startPage": 1
-			, "endPage": 215
-		}
-		, {
-			"date": "2021-05-04"
-			, "startPage": 216
-			, "endPage": 316
-		}
-	]
-}]
+			, "endPage": 406
+		}]
+	}
+]
