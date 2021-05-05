@@ -1,0 +1,61 @@
+{
+	"type": "array",
+	"title": "Book Reading",
+	"uniqueItems": true,
+	"items": {
+		"type": "object",
+		"title": "Book",
+		"properties": {
+			"title": {
+				"type": "string",
+				"title": "Title",
+				"minLength": 1
+			},
+			"subtitle": {
+				"type": "string",
+				"title": "Subtitle"
+			},
+			"author": {
+				"type": "string",
+				"title": "Author",
+				"minLength": 1
+			},
+			"numPages": {
+				"type": "integer",
+				"title": "No. Pages",
+				"minimum": 1
+			},
+			"notes": {
+				"type": "string",
+				"title": "Notes"
+			},
+			"progress": {
+				"type": "array",
+				"format": "table",
+				"title": "Progress",
+				"uniqueItems": true,
+				"items": {
+					"type": "object",
+					"title": "Progress",
+					"properties": {
+						"date": {
+							"type": "string",
+							"title": "Date",
+							"format": "date"
+						},
+						"startPage": {
+							"type": "integer",
+							"title": "Start Page",
+							"minimum": 1
+						},
+						"endPage": {
+							"type": "integer",
+							"title": "End Page",
+							"minimum": 1
+						}
+					}
+				}
+			}
+		}
+	}
+}
