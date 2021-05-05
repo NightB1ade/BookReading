@@ -15,19 +15,24 @@
 				"type": "string"
 				, "title": "Subtitle"
 			}
-			, "authors": {
+			, "creators": {
 				"type": "array"
-				, "title": "Authors"
+				, "title": "Creators"
 				, "uniqueItems": true
 				, "items": {
 					"type": "string"
-					, "title": "Author"
+					, "title": "Creator"
 					, "minLength": 1
 				}
 			}
-			, "isbn": {
-				"type": "integer"
-				, "title": "ISBN"
+			, "isbns": {
+				"type": "array"
+				, "title": "ISBNs"
+				, "uniqueItems": true
+				, "items": {
+					"type": "integer"
+					, "title": "ISBN"
+				}
 			}
 			, "numPages": {
 				"type": "integer"

@@ -14,7 +14,7 @@ function DisplayReadingList() {
 				: ""
 			)
 			+ "<h2>"
-			+ item.authors.join(", ")
+			+ item.creators.join(", ")
 		 	+ "</h2>"
 			+ "<p>No. Pages: " + item.numPages + "</p>"
 			+ (
