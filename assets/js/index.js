@@ -14,11 +14,11 @@ function DisplayReadingList() {
 			+ "<h2>" + item.author + "</h2>"
 			+ "<p>No. Pages: " + item.numPages + "</p>"
 			+ "<table>"
-			+ "<thead>"
-			+ "<tr>"
+			+ "<thead><tr>"
 			+ "<th>Date</th>"
 			+ "<th style='text-align:right'>Start Page</th>"
-			+ "<th style='text-align:right'>End Page</th></tr></thead>"
+			+ "<th style='text-align:right'>End Page</th>"
+			+ "</tr></thead>"
 			+ "<tbody>";
 
 		item.progress.forEach((item, i) => {
