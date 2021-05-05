@@ -4,6 +4,8 @@ function DisplayReadingList() {
 	var ReadingListHTML = "";
 
 	ReadingList.forEach((item, i) => {
+		var numPages = item.numPages;
+
 		ReadingListHTML
 			+= "<h1>" + item.title + "</h1>"
 			+ (
@@ -16,8 +18,8 @@ function DisplayReadingList() {
 			+ "<table>"
 			+ "<thead><tr>"
 			+ "<th>Date</th>"
-			+ "<th style='text-align:right'>Start Page</th>"
-			+ "<th style='text-align:right'>End Page</th>"
+			+ "<th colspan='2' style='text-align:center'>Start Page</th>"
+			+ "<th colspan='2' style='text-align:center'>End Page</th>"
 			+ "</tr></thead>"
 			+ "<tbody>";
 
@@ -26,7 +28,9 @@ function DisplayReadingList() {
 				+= "<tr>"
 				+ "<td>" + item.date + "</td>"
 				+ "<td style='text-align:right'>" + item.startPage + "</td>"
+				+ "<td style='text-align:right'>(" + (ReturnFraction(item.startPage-1,numPages,3)*100).toFixed(1) + "%)</td>"
 				+ "<td style='text-align:right'>" + item.endPage + "</td>"
+				+ "<td style='text-align:right'>(" + (ReturnFraction(item.endPage,numPages,3)*100).toFixed(1) + "%)</td>"
 				+ "</tr>";
 		});
 
@@ -37,4 +41,11 @@ function DisplayReadingList() {
 	});
 
 	$("#BookReading").html(ReadingListHTML);
+}
+
+
+
+
+function ReturnFraction(top,bottom,precision) {
+	return (Math.round(top / bottom * (10 ** (precision))) / (10 ** precision))
 }
