@@ -14,7 +14,18 @@ function DisplayHistoricReadingList() {
 		+ "</tr></thead>"
 		+ "<tbody>"
 		+ historicReadingList.map(function(x, i) {
-			return "<tr><td>" + x.title + "</td><td>" + x.creators.join(", ") + "</td></tr>"
+			return (
+				"<tr><td>"
+				+ x.title
+				+ (
+					x.subtitle != ""
+					? "<br>" + x.subtitle
+					: ""
+				)
+				+ "</td><td>"
+				+ x.creators.join(", ")
+				+ "</td></tr>"
+			)
 		}).join("")
 		+ "</tbody></table>";
 
