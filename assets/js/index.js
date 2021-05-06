@@ -19,7 +19,11 @@ function DisplayHistoricReadingList() {
 				"<tr><td>"
 				+ x.title
 				+ "</td><td>"
-				+ x.subtitle
+				+ (
+					x.subtitle !== undefined
+					? x.subtitle
+					: ""
+				)
 				+ "</td><td>"
 				+ x.creators.join(", ")
 				+ "</td></tr>"
