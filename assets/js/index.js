@@ -16,7 +16,17 @@ function DisplayReadingList() {
 			+ "<h2>"
 			+ item.creators.join(", ")
 		 	+ "</h2>"
-			+ "<p>No. Pages: " + item.numPages + "</p>"
+			+ "<p>No. Pages: " + item.numPages
+			+ (
+				item.isbns.length == 1
+				? ", ISBN: " + item.isbns[0]
+				: (
+					item.isbns.length > 1
+					? ", ISBNs: " + item.isbns.join(", ")
+					: ""
+				)
+			)
+			+ "</p>"
 			+ (
 				item.notes.length !== 0
 				? "<p><ul><li>"
