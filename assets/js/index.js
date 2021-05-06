@@ -42,13 +42,13 @@ function DisplayReadingList() {
 
 		html += "<h1>" + item.title + "</h1>"
 			+ (
-				item.subtitle !== ""
+				item.subtitle !== undefined
 				? "<p>" + item.subtitle + "</p>"
 				: ""
 			)
-			+ "<h2>"
+			+ "<h4>"
 			+ item.creators.join(", ")
-		 	+ "</h2>"
+		 	+ "</h4>"
 			+ "<p>No. Pages: " + item.numPages + "</p>"
 			+ (
 				item.isbns.length > 0
@@ -59,7 +59,11 @@ function DisplayReadingList() {
 					+ "</tr></thead>"
 					+ "<tbody><tr>"
 					+ item.isbns.map(function(x, i) {
-						return "<tr><td>" + x.isbn + "</td><td>" + x.description + "</td></tr>";
+						return "<tr><td>" + x.isbn + "</td><td>" + (
+							x.description !== undefined
+							? x.description
+							: ""
+						) + "</td></tr>";
 					}).join("")
 					+ "</tr></tbody></table></p>"
 				: ""
