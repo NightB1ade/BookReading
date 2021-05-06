@@ -1,12 +1,12 @@
-var ReadingList;
+var readingList;
 
 function DisplayReadingList() {
-	var ReadingListHTML = "";
+	var readingListHTML = "";
 
-	ReadingList.forEach((item, i) => {
+	readingList.forEach((item, i) => {
 		var numPages = item.numPages;
 
-		ReadingListHTML
+		readingListHTML
 			+= "<h1>" + item.title + "</h1>"
 			+ (
 				item.subtitle !== ""
@@ -43,7 +43,7 @@ function DisplayReadingList() {
 			+ "<tbody>";
 
 		item.progress.forEach((item, i) => {
-			ReadingListHTML
+			readingListHTML
 				+= "<tr>"
 				+ "<td>" + item.date + "</td>"
 				+ "<td style='text-align:right'>" + item.startPage + "</td>"
@@ -53,14 +53,14 @@ function DisplayReadingList() {
 				+ "</tr>";
 		});
 
-		ReadingListHTML
+		readingListHTML
 			+= "</tbody>"
 			+ "</table>"
 			+ "<hr>";
 
 	});
 
-	$("#BookReading").html(ReadingListHTML);
+	$("#BookReading").html(readingListHTML);
 }
 
 

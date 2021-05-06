@@ -13,7 +13,7 @@ $(document).ready(function() {
 	$.get(
 		"{{ 'assets/json/NightB1adeReadingList.json?v=' | append: site.github.build_revision }}"
 		,function(data){
-			ReadingList = $(data).toArray();
+			readingList = $(data).toArray();
 
 			DisplayReadingList();
 		}
