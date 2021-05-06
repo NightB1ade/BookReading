@@ -2,8 +2,8 @@ var readingList;
 
 function DisplayReadingList() {
 	var readingListHTML = "";
-
-	readingList.forEach((item, i) => {
+	for (i=readingList.length-1; i>=0 ; i--) {
+		var item = readingList[i];
 		var numPages = item.numPages;
 
 		readingListHTML
@@ -57,8 +57,7 @@ function DisplayReadingList() {
 			+= "</tbody>"
 			+ "</table>"
 			+ "<hr>";
-
-	});
+	}
 
 	$("#BookReading").html(readingListHTML);
 }
