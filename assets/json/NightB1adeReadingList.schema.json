@@ -1,6 +1,7 @@
 {
 	"type": "array"
 	, "title": "Book Reading"
+	, "format": "tabs"
 	, "uniqueItems": true
 	, "items": {
 		"type": "object"
