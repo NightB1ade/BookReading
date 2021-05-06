@@ -1,4 +1,148 @@
 [{
+		"title": "Abhorsen"
+		, "subtitle": "The Old Kingdom, Book 3"
+		, "creators": [
+			"Garth Nix"
+		]
+		, "isbns": [{
+			"isbn": "0060278250"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Ambassador’s Mission"
+		, "subtitle": "The Traitor Spy Trilogy, Book 1"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9781841495927"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Amber Spyglass"
+		, "subtitle": "His Dark Materials Trilogy, Book 3"
+		, "creators": [
+			"Phillip Pullman"
+		]
+		, "isbns": [{
+			"isbn": "043999358X"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Clariel"
+		, "subtitle": "The Old Kingdom, Prequel (Book 4)"
+		, "creators": [
+			"Garth Nix"
+		]
+		, "isbns": [{
+			"isbn": "9781471403842"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Harry Potter and the Chamber of Secrets"
+		, "subtitle": "Harry Potter, Book 2"
+		, "creators": [
+			"J. K. Rowling"
+		]
+		, "isbns": [{
+			"isbn": "0747538484"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Harry Potter and the Deathly Hallows"
+		, "subtitle": "Harry Potter, Book 7"
+		, "creators": [
+			"J. K. Rowling"
+		]
+		, "isbns": [{
+			"isbn": "9780747591054"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Harry Potter and the Goblet of Fire"
+		, "subtitle": "Harry Potter, Book 4"
+		, "creators": [
+			"J. K. Rowling"
+		]
+		, "isbns": [{
+			"isbn": "074754624X"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Harry Potter and the Half-Blood Prince"
+		, "subtitle": "Harry Potter, Book 6"
+		, "creators": [
+			"J. K. Rowling"
+		]
+		, "isbns": [{
+			"isbn": "0747581088"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Harry Potter and the Order of the Phoenix"
+		, "subtitle": "Harry Potter, Book 5"
+		, "creators": [
+			"J. K. Rowling"
+		]
+		, "isbns": [{
+			"isbn": "0747551006"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Harry Potter and the Philosopher’s Stone"
+		, "subtitle": "Harry Potter, Book 1"
+		, "creators": [
+			"J. K. Rowling"
+		]
+		, "isbns": [{
+			"isbn": "0747532745"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Harry Potter and the Prisoner of Azkaban"
+		, "subtitle": "Harry Potter, Book 3"
+		, "creators": [
+			"J. K. Rowling"
+		]
+		, "isbns": [{
+			"isbn": "0747546290"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The High Lord"
+		, "subtitle": "The Black Magician Trilogy, Book 3"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9781841499628"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
 		"title": "The Hobbit"
 		, "subtitle": ""
 		, "creators": [
@@ -8,12 +152,144 @@
 		, "notes": []
 	}
 	, {
+		"title": "Lirael"
+		, "subtitle": "The Old Kingdom, Book 3"
+		, "creators": [
+			"Garth Nix"
+		]
+		, "isbns": [{
+			"isbn": "000713732X"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
 		"title": "The Lord of the Rings"
 		, "subtitle": ""
 		, "creators": [
 			"J. R. R. Tolkien"
 		]
 		, "isbns": []
+		, "notes": []
+	}
+	, {
+		"title": "The Magician’s Apprentice"
+		, "subtitle": "The Black Magician Trilogy, Prequel"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9781841495903"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Magician’s Guild"
+		, "subtitle": "The Black Magician Trilogy, Book 1"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9781841499604"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Magicians"
+		, "subtitle": "The Magicians Trilogy, Book 1"
+		, "creators": [
+			"Lev Grossman"
+		]
+		, "isbns": [{
+			"isbn": "9780099534440"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Northern Lights"
+		, "subtitle": "His Dark Materials Trilogy, Book 1"
+		, "creators": [
+			"Phillip Pullman"
+		]
+		, "isbns": [{
+			"isbn": "0590660543"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Novice"
+		, "subtitle": "The Black Magician Trilogy, Book 2"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9781841499611"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Rogue"
+		, "subtitle": "The Traitor Spy Trilogy, Book 2"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9781841495941"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Sabriel"
+		, "subtitle": "The Old Kingdom, Book 1"
+		, "creators": [
+			"Garth Nix"
+		]
+		, "isbns": [{
+			"isbn": "0007718853"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Subtle Knife"
+		, "subtitle": "His Dark Materials Trilogy, Book 2"
+		, "creators": [
+			"Phillip Pullman"
+		]
+		, "isbns": [{
+			"isbn": "0590112899"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "Thief’s Magic"
+		, "subtitle": "Millennium’s Rule, Book 1"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9780356501109"
+			, "description": "Physical Book"
+		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Traitor Queen"
+		, "subtitle": "The Traitor Spy Trilogy, Book 3"
+		, "creators": [
+			"Trudi Canavan"
+		]
+		, "isbns": [{
+			"isbn": "9781841495965"
+			, "description": "Physical Book"
+		}]
 		, "notes": []
 	}
 ]
