@@ -5,7 +5,7 @@
 			"Jeremy Bai"
 		]
 		, "isbns": [{
-			"isbn": 9798711260271
+			"isbn": "9798711260271"
 			, "description": "Physical Book"
 		}]
 		, "numPages": 316
@@ -32,15 +32,15 @@
 			, "Simon Bowland"
 		]
 		, "isbns": [{
-				"isbn": 9781534311817
+				"isbn": "9781534311817"
 				, "description": "Volume 1"
 			}
 			, {
-				"isbn": 9781534314023
+				"isbn": "9781534314023"
 				, "description": "Volume 2"
 			}
 			, {
-				"isbn": 9781534315556
+				"isbn": "9781534315556"
 				, "description": "Volume 3"
 			}
 		]
@@ -64,7 +64,7 @@
 			, "Elsa Charretier"
 		]
 		, "isbns": [{
-			"isbn": 9781684067138
+			"isbn": "9781684067138"
 			, "description": ""
 		}]
 		, "numPages": 180
@@ -86,7 +86,7 @@
 			, "Daniele Di Nicuolo"
 		]
 		, "isbns": [{
-			"isbn": 9781684064823
+			"isbn": "9781684064823"
 			, "description": ""
 		}]
 		, "numPages": 124

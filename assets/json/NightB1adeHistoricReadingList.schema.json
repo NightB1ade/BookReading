@@ -36,9 +36,9 @@
 					, "title": "ISBN"
 					, "properties": {
 						"isbn": {
-							"type": "integer"
+							"type": "string"
 							, "title": "ISBN"
-							, "minimum": 1
+							, "minLength": 10
 						}
 						, "description": {
 							"type": "string"
