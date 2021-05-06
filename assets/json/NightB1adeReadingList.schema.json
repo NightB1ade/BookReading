@@ -29,10 +29,22 @@
 			, "isbns": {
 				"type": "array"
 				, "title": "ISBNs"
+				, "format": "table"
 				, "uniqueItems": true
 				, "items": {
-					"type": "integer"
+					"type": "object"
 					, "title": "ISBN"
+					, "properties": {
+						"isbn": {
+							"type": "integer"
+							, "title": "ISBN"
+							, "minimum": 1
+						}
+						, "description": {
+							"type": "string"
+							, "title": "Description"
+						}
+					}
 				}
 			}
 			, "numPages": {

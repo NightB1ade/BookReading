@@ -4,9 +4,10 @@
 		, "creators": [
 			"Jeremy Bai"
 		]
-		, "isbns": [
-			9798711260271
-		]
+		, "isbns": [{
+			"isbn": 9798711260271
+			, "description": "Physical Book"
+		}]
 		, "numPages": 316
 		, "notes": []
 		, "progress": [{
@@ -30,15 +31,22 @@
 			, "Antonio Fabela"
 			, "Simon Bowland"
 		]
-		, "isbns": [
-			9781534311817
-			, 9781534314023
-			, 9781534315556
+		, "isbns": [{
+				"isbn": 9781534311817
+				, "description": "Volume 1"
+			}
+			, {
+				"isbn": 9781534314023
+				, "description": "Volume 2"
+			}
+			, {
+				"isbn": 9781534315556
+				, "description": "Volume 3"
+			}
 		]
 		, "numPages": 406
 		, "notes": [
-			"ISBNs represent the collected volumes"
-			, "Comic series of 15 issues"
+			"Comic series of 15 issues"
 			, "5 issues per volume"
 		]
 		, "progress": [{
@@ -54,9 +62,10 @@
 			"Pierrick Colinet"
 			, "Elsa Charretier"
 		]
-		, "isbns": [
-			9781684067138
-		]
+		, "isbns": [{
+			"isbn": 9781684067138
+			, "description": ""
+		}]
 		, "numPages": 182
 		, "notes": []
 		, "progress": [{

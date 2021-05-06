@@ -16,17 +16,21 @@ function DisplayReadingList() {
 			+ "<h2>"
 			+ item.creators.join(", ")
 		 	+ "</h2>"
-			+ "<p>No. Pages: " + item.numPages
+			+ "<p>No. Pages: " + item.numPages + "</p>"
 			+ (
-				item.isbns.length == 1
-				? ", ISBN: " + item.isbns[0]
-				: (
-					item.isbns.length > 1
-					? ", ISBNs: " + item.isbns.join(", ")
-					: ""
-				)
+				item.isbns.length > 0
+				? "<p><table>"
+					+ "<thead><tr>"
+					+ "<th>ISBN</th>"
+					+ "<th>Description</th>"
+					+ "</tr></thead>"
+					+ "<tbody><tr>"
+					+ item.isbns.map(function(x, i) {
+						return "<tr><td>" + x.isbn + "</td><td>" + x.description + "</td></tr>";
+					}).join("")
+					+ "</tr></tbody></table></p>"
+				: ""
 			)
-			+ "</p>"
 			+ (
 				item.notes.length !== 0
 				? "<p><ul><li>"
@@ -34,7 +38,7 @@ function DisplayReadingList() {
 					+ "</li></ul></p>"
 				: ""
 			)
-			+ "<table>"
+			+ "<p><table>"
 			+ "<thead><tr>"
 			+ "<th>Date</th>"
 			+ "<th colspan='2' style='text-align:center'>Start Page</th>"
@@ -55,7 +59,7 @@ function DisplayReadingList() {
 
 		readingListHTML
 			+= "</tbody>"
-			+ "</table>"
+			+ "</table></p>"
 			+ "<hr>";
 	}
 
