@@ -47,4 +47,22 @@
 			, "endPage": 406
 		}]
 	}
+	, {
+		"title": "The Infinite Loop, Volume 1"
+		, "subtitle": ""
+		, "creators": [
+			"Pierrick Colinet"
+			, "Elsa Charretier"
+		]
+		, "isbns": [
+			9781684067138
+		]
+		, "numPages": 182
+		, "notes": []
+		, "progress": [{
+			"date": "2021-05-05"
+			, "startPage": 1
+			, "endPage": 182
+		}]
+	}
 ]
