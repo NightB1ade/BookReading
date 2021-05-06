@@ -1,13 +1,13 @@
 var readingList;
 
 function DisplayReadingList() {
-	var readingListHTML = "";
-	for (i=readingList.length-1; i>=0 ; i--) {
+	var html = "";
+	
+	for (i=readingList.length-1 ; i>=0 ; i--) {
 		var item = readingList[i];
 		var numPages = item.numPages;
 
-		readingListHTML
-			+= "<h1>" + item.title + "</h1>"
+		html += "<h1>" + item.title + "</h1>"
 			+ (
 				item.subtitle !== ""
 				? "<p>" + item.subtitle + "</p>"
@@ -47,8 +47,7 @@ function DisplayReadingList() {
 			+ "<tbody>";
 
 		item.progress.forEach((item, i) => {
-			readingListHTML
-				+= "<tr>"
+			html += "<tr>"
 				+ "<td>" + item.date + "</td>"
 				+ "<td style='text-align:right'>" + item.startPage + "</td>"
 				+ "<td style='text-align:right'>(" + (ReturnFraction(item.startPage-1,numPages,3)*100).toFixed(1) + "%)</td>"
@@ -57,13 +56,12 @@ function DisplayReadingList() {
 				+ "</tr>";
 		});
 
-		readingListHTML
-			+= "</tbody>"
+		html += "</tbody>"
 			+ "</table></p>"
 			+ "<hr>";
 	}
 
-	$("#BookReading").html(readingListHTML);
+	$("#BookReading").html(html);
 }
 
 
