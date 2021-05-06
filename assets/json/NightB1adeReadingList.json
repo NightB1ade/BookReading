@@ -77,4 +77,26 @@
 			, "endPage": 180
 		}]
 	}
+	, {
+		"title": "The Infinite Loop, Volume 2"
+		, "subtitle": ""
+		, "creators": [
+			"Pierrick Colinet"
+			, "Elsa Charretier"
+			, "Daniele Di Nicuolo"
+		]
+		, "isbns": [{
+			"isbn": 9781684064823
+			, "description": ""
+		}]
+		, "numPages": 124
+		, "notes": [
+			"Cambridgeshire Libraries eBook"
+		]
+		, "progress": [{
+			"date": "2021-05-06"
+			, "startPage": 1
+			, "endPage": 124
+		}]
+	}
 ]
