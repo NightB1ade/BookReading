@@ -24,7 +24,6 @@
 	}
 	, {
 		"title": "Skyward"
-		, "subtitle": ""
 		, "creators": [
 			"Joe Henderson"
 			, "Lee Garbett"
@@ -58,14 +57,12 @@
 	}
 	, {
 		"title": "The Infinite Loop, Volume 1"
-		, "subtitle": ""
 		, "creators": [
 			"Pierrick Colinet"
 			, "Elsa Charretier"
 		]
 		, "isbns": [{
 			"isbn": "9781684067138"
-			, "description": ""
 		}]
 		, "numPages": 180
 		, "notes": [
@@ -79,7 +76,6 @@
 	}
 	, {
 		"title": "The Infinite Loop, Volume 2"
-		, "subtitle": ""
 		, "creators": [
 			"Pierrick Colinet"
 			, "Elsa Charretier"
@@ -87,7 +83,6 @@
 		]
 		, "isbns": [{
 			"isbn": "9781684064823"
-			, "description": ""
 		}]
 		, "numPages": 124
 		, "notes": [
@@ -101,7 +96,6 @@
 	}
 	, {
 		"title": "Stairway Anthology"
-		, "subtitle": ""
 		, "creators": [
 			"Simon Daniel Birks"
 			, "Carlos Giffoni"
