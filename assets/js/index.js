@@ -49,7 +49,11 @@ function DisplayReadingList() {
 			+ "<h4>"
 			+ item.creators.join(", ")
 		 	+ "</h4>"
-			+ "<p>No. Pages: " + item.numPages + "</p>"
+			+ (
+				item.numPages !== undefined
+				? "<p>No. Pages: " + item.numPages + "</p>"
+				: ""
+			)
 			+ (
 				item.isbns.length > 0
 				? "<p><table>"
