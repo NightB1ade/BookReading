@@ -1,8 +1,32 @@
+var historicReadingList;
 var readingList;
+
+
+
+
+function DisplayHistoricReadingList() {
+	var html = ""
+
+	html += "<table>"
+		+ "<thead><tr>"
+		+ "<th>Title</th>"
+		+ "<th>Creators</th>"
+		+ "</tr></thead>"
+		+ "<tbody>"
+		+ historicReadingList.map(function(x, i) {
+			return "<tr><td>" + x.title + "</td><td>" + x.creators.join(", ") + "</td></tr>"
+		}).join("")
+		+ "</tbody></table>";
+
+	$("#HistoricReading").html(html);
+}
+
+
+
 
 function DisplayReadingList() {
 	var html = "";
-	
+
 	for (i=readingList.length-1 ; i>=0 ; i--) {
 		var item = readingList[i];
 		var numPages = item.numPages;

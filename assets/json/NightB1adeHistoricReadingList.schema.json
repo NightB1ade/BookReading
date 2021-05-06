@@ -1,0 +1,62 @@
+{
+	"type": "array"
+	, "title": "Book Reading"
+	, "format": "tabs"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Book"
+		, "properties": {
+			"title": {
+				"type": "string"
+				, "title": "Title"
+				, "minLength": 1
+			}
+			, "subtitle": {
+				"type": "string"
+				, "title": "Subtitle"
+			}
+			, "creators": {
+				"type": "array"
+				, "title": "Creators"
+				, "uniqueItems": true
+				, "items": {
+					"type": "string"
+					, "title": "Creator"
+					, "minLength": 1
+				}
+			}
+			, "isbns": {
+				"type": "array"
+				, "title": "ISBNs"
+				, "format": "table"
+				, "uniqueItems": true
+				, "items": {
+					"type": "object"
+					, "title": "ISBN"
+					, "properties": {
+						"isbn": {
+							"type": "integer"
+							, "title": "ISBN"
+							, "minimum": 1
+						}
+						, "description": {
+							"type": "string"
+							, "title": "Description"
+						}
+					}
+				}
+			}
+			, "notes": {
+				"type": "array"
+				, "title": "Notes"
+				, "uniqueItems": true
+				, "items": {
+					"type": "string"
+					, "title": "Note"
+					, "minLength": 1
+				}
+			}
+		}
+	}
+}
