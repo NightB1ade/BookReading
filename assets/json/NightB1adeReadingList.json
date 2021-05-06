@@ -99,4 +99,30 @@
 			, "endPage": 124
 		}]
 	}
+	, {
+		"title": "Stairway Anthology"
+		, "subtitle": ""
+		, "creators": [
+			"Simon Daniel Birks"
+			, "Carlos Giffoni"
+			, "Joseph A. Michael"
+			, "Mark Schmidt"
+			, "Octavio Karbank"
+			, "Omar Spahi"
+			, "C. A. Preece"
+			, "Frank Martin"
+			, "Austin Allen Hamblin"
+			, "Kevin Cuffe"
+		]
+		, "isbns": []
+		, "numPages": 134
+		, "notes": [
+			"Cambridgeshire Libraries eBook"
+		]
+		, "progress": [{
+			"date": "2021-05-06"
+			, "startPage": 1
+			, "endPage": 134
+		}]
+	}
 ]
