@@ -48,6 +48,7 @@
 		, "notes": [
 			"Comic series of 15 issues"
 			, "5 issues per volume"
+			, "Cambridgeshire Libraries eBooks"
 		]
 		, "progress": [{
 			"date": "2021-05-05"
@@ -67,7 +68,9 @@
 			, "description": ""
 		}]
 		, "numPages": 180
-		, "notes": []
+		, "notes": [
+			"Cambridgeshire Libraries eBook"
+		]
 		, "progress": [{
 			"date": "2021-05-05"
 			, "startPage": 1
