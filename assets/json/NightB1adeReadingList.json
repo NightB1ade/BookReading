@@ -66,12 +66,12 @@
 			"isbn": 9781684067138
 			, "description": ""
 		}]
-		, "numPages": 182
+		, "numPages": 180
 		, "notes": []
 		, "progress": [{
 			"date": "2021-05-05"
 			, "startPage": 1
-			, "endPage": 182
+			, "endPage": 180
 		}]
 	}
 ]
