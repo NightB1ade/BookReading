@@ -74,18 +74,26 @@ function DisplayReadingList() {
 			+ "<p><table>"
 			+ "<thead><tr>"
 			+ "<th>Date</th>"
-			+ "<th colspan='2' style='text-align:center'>Start Page</th>"
-			+ "<th colspan='2' style='text-align:center'>End Page</th>"
+			+ "<th colspan='2' style='text-align:center'>Start</th>"
+			+ "<th colspan='2' style='text-align:center'>End</th>"
 			+ "</tr></thead>"
 			+ "<tbody>";
 
 		item.progress.forEach((item, i) => {
 			html += "<tr>"
 				+ "<td>" + item.date + "</td>"
-				+ "<td style='text-align:right'>" + item.startPage + "</td>"
-				+ "<td style='text-align:right'>(" + (ReturnFraction(item.startPage-1,numPages,3)*100).toFixed(1) + "%)</td>"
-				+ "<td style='text-align:right'>" + item.endPage + "</td>"
-				+ "<td style='text-align:right'>(" + (ReturnFraction(item.endPage,numPages,3)*100).toFixed(1) + "%)</td>"
+				+ (
+					item.startPage !== undefined
+					? "<td style='text-align:right'>" + item.startPage + "</td>"
+						+ "<td style='text-align:right'>(" + (ReturnFraction(item.startPage-1,numPages,3)*100).toFixed(1) + "%)</td>"
+					: "<td colspan='2' style='text-align:right'>" + item.startPercentage*100 + "%</td>"
+				)
+				+ (
+					item.endPage !== undefined
+					? "<td style='text-align:right'>" + item.endPage + "</td>"
+						+ "<td style='text-align:right'>(" + (ReturnFraction(item.endPage,numPages,3)*100).toFixed(1) + "%)</td>"
+					: "<td colspan='2' style='text-align:right'>" + item.endPercentage*100 + "%</td>"
+				)
 				+ "</tr>";
 		});
 

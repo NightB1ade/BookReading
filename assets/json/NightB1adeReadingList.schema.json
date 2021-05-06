@@ -86,6 +86,39 @@
 					"type": "object"
 					, "title": "Progress"
 					, "format": "grid"
+					, "oneOf": [{
+							"title": "Start Page, End Page"
+							, "required": [
+								"date"
+								, "startPage"
+								, "endPage"
+							]
+						}
+						, {
+							"title": "Start %, End %"
+							, "required": [
+								"date"
+								, "startPercentage"
+								, "endPercentage"
+							]
+						}
+						, {
+							"title": "Start Page, End %"
+							, "required": [
+								"date"
+								, "startPage"
+								, "endPercentage"
+							]
+						}
+						, {
+							"title": "Start %, End Page"
+							, "required": [
+								"date"
+								, "startPercentage"
+								, "endPage"
+							]
+						}
+					]
 					, "properties": {
 						"date": {
 							"type": "string"
@@ -97,10 +130,22 @@
 							, "title": "Start Page"
 							, "minimum": 1
 						}
+						, "startPercentage": {
+							"type": "number"
+							, "title": "Start Percentage"
+							, "minimum": 0
+							, "maximum": 1
+						}
 						, "endPage": {
 							"type": "integer"
 							, "title": "End Page"
 							, "minimum": 1
+						}
+						, "endPercentage": {
+							"type": "number"
+							, "title": "End Percentage"
+							, "minimum": 0
+							, "maximum": 1
 						}
 					}
 				}
