@@ -10,6 +10,7 @@ function DisplayHistoricReadingList() {
 	html += "<table>"
 		+ "<thead><tr>"
 		+ "<th>Title</th>"
+		+ "<th>Subtitle</th>"
 		+ "<th>Creators</th>"
 		+ "</tr></thead>"
 		+ "<tbody>"
@@ -17,11 +18,8 @@ function DisplayHistoricReadingList() {
 			return (
 				"<tr><td>"
 				+ x.title
-				+ (
-					x.subtitle != ""
-					? "<br>" + x.subtitle
-					: ""
-				)
+				+ "</td><td>"
+				+ x.subtitle
 				+ "</td><td>"
 				+ x.creators.join(", ")
 				+ "</td></tr>"
