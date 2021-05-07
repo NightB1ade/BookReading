@@ -97,14 +97,14 @@ function DisplayReadingList() {
 				+ (
 					item.startPage !== undefined
 					? "<td style='text-align:right'>" + item.startPage + "</td>"
-						+ "<td style='text-align:right'>(" + (ReturnFraction(item.startPage-1,numPages,3)*100).toFixed(1) + "%)</td>"
-					: "<td colspan='2' style='text-align:right'>" + item.startPercentage*100 + "%</td>"
+						+ "<td style='text-align:right'>(" + (Math.round((item.startPage-1)/numPages*1000)/10).toFixed(1) + "%)</td>"
+					: "<td colspan='2' style='text-align:right'>" + (Math.round(item.startPercentage*1000)/10).toFixed(1) + "%</td>"
 				)
 				+ (
 					item.endPage !== undefined
 					? "<td style='text-align:right'>" + item.endPage + "</td>"
-						+ "<td style='text-align:right'>(" + (ReturnFraction(item.endPage,numPages,3)*100).toFixed(1) + "%)</td>"
-					: "<td colspan='2' style='text-align:right'>" + item.endPercentage*100 + "%</td>"
+						+ "<td style='text-align:right'>(" + (Math.round(item.endPage/numPages*1000)/10).toFixed(1) + "%)</td>"
+					: "<td colspan='2' style='text-align:right'>" + (Math.round(item.endPercentage*1000)/10).toFixed(1) + "%</td>"
 				)
 				+ "</tr>";
 		});
@@ -115,11 +115,4 @@ function DisplayReadingList() {
 	}
 
 	$("#BookReading").html(html);
-}
-
-
-
-
-function ReturnFraction(top,bottom,precision) {
-	return (Math.round(top / bottom * (10 ** (precision))) / (10 ** precision))
 }
