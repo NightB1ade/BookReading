@@ -44,14 +44,14 @@
 							"type": "string"
 							, "title": "ISBN"
 							, "oneOf": [{
-									"title": "Length 10"
-									, "minLength": 10
-									, "maxLength": 10
-								}
-								, {
 									"title": "Length 13"
 									, "minLength": 13
 									, "maxLength": 13
+								}
+								, {
+									"title": "Length 10"
+									, "minLength": 10
+									, "maxLength": 10
 								}
 							]
 						}
