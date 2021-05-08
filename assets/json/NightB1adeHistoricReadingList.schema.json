@@ -6,7 +6,6 @@
 	, "items": {
 		"type": "object"
 		, "title": "Book"
-		,"format":"grid"
 		, "properties": {
 			"title": {
 				"type": "string"
@@ -35,7 +34,7 @@
 				, "items": {
 					"type": "object"
 					, "title": "ISBN"
-					,"format":"grid"
+					, "format": "grid"
 					, "properties": {
 						"isbn": {
 							"type": "string"

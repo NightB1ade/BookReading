@@ -6,7 +6,6 @@
 	, "items": {
 		"type": "object"
 		, "title": "Book"
-		, "format": "grid"
 		, "required": [
 			"title"
 		]
@@ -19,6 +18,7 @@
 			, "subtitle": {
 				"type": "string"
 				, "title": "Subtitle"
+				, "minLength": 1
 			}
 			, "creators": {
 				"type": "array"
