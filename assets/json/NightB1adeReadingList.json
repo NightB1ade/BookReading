@@ -32,22 +32,22 @@
 		]
 		, "isbns": [{
 				"isbn": "9781534311817"
-				, "description": "Volume 1"
+				, "description": "Volume 1 eBook"
 			}
 			, {
 				"isbn": "9781534314023"
-				, "description": "Volume 2"
+				, "description": "Volume 2 eBook"
 			}
 			, {
 				"isbn": "9781534315556"
-				, "description": "Volume 3"
+				, "description": "Volume 3 eBook"
 			}
 		]
 		, "numPages": 406
 		, "notes": [
 			"Comic series of 15 issues"
 			, "5 issues per volume"
-			, "Cambridgeshire Libraries eBooks"
+			, "Cambridgeshire Libraries"
 		]
 		, "progress": [{
 			"date": "2021-05-05"
@@ -62,11 +62,11 @@
 			, "Elsa Charretier"
 		]
 		, "isbns": [{
-			"isbn": "9781684067138"
+			"isbn": "9781684067138", "description": "eBook"
 		}]
 		, "numPages": 180
 		, "notes": [
-			"Cambridgeshire Libraries eBook"
+			"Cambridgeshire Libraries"
 		]
 		, "progress": [{
 			"date": "2021-05-05"
@@ -83,10 +83,11 @@
 		]
 		, "isbns": [{
 			"isbn": "9781684064823"
+			, "description": "eBook"
 		}]
 		, "numPages": 124
 		, "notes": [
-			"Cambridgeshire Libraries eBook"
+			"Cambridgeshire Libraries"
 		]
 		, "progress": [{
 			"date": "2021-05-06"
@@ -126,9 +127,10 @@
 		]
 		, "isbns": [{
 			"isbn": "9780007536733"
+			, "description": "eBook"
 		}]
 		, "notes": [
-			"Cambridgeshire Libraries eBook"
+			"Cambridgeshire Libraries"
 		]
 		, "progress": [{
 				"date": "2021-05-07"
