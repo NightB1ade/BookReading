@@ -51,8 +51,8 @@
 		]
 		, "progress": [{
 			"date": "2021-05-05"
-			, "startPercentage": 0
-			, "endPercentage": 1
+			, "startPage": 1
+			, "endPage": 406
 		}]
 	}
 	, {
@@ -70,8 +70,8 @@
 		]
 		, "progress": [{
 			"date": "2021-05-05"
-			, "startPercentage": 0
-			, "endPercentage": 1
+			, "startPage": 1
+			, "endPage": 180
 		}]
 	}
 	, {
@@ -91,8 +91,8 @@
 		]
 		, "progress": [{
 			"date": "2021-05-06"
-			, "startPercentage": 0
-			, "endPercentage": 1
+			, "startPage": 1
+			, "endPage": 124
 		}]
 	}
 	, {
@@ -116,8 +116,8 @@
 		]
 		, "progress": [{
 			"date": "2021-05-06"
-			, "startPercentage": 0
-			, "endPercentage": 1
+			, "startPage": 1
+			, "endPage": 134
 		}]
 	}
 	, {
