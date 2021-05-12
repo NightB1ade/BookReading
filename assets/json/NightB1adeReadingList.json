@@ -151,4 +151,39 @@
 			}
 		]
 	}
+	, {
+		"title": "Insurgent"
+		, "subtitle": "Divergent, Book 2"
+		, "creators": [
+			"Veronica Roth"
+		]
+		, "isbns": [{
+			"isbn": "9780007479900"
+			, "description": "eBook"
+		}]
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "progress": [{
+				"date": "2021-05-09"
+				, "startPercentage": 0
+				, "endPercentage": 0.086
+			}
+			, {
+				"date": "2021-05-10"
+				, "startPercentage": 0.086
+				, "endPercentage": 0.438
+			}
+			, {
+				"date": "2021-05-11"
+				, "startPercentage": 0.438
+				, "endPercentage": 0.574
+			}
+			, {
+				"date": "2021-05-12"
+				, "startPercentage": 0.574
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
