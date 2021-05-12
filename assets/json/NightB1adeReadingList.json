@@ -62,7 +62,8 @@
 			, "Elsa Charretier"
 		]
 		, "isbns": [{
-			"isbn": "9781684067138", "description": "eBook"
+			"isbn": "9781684067138"
+			, "description": "eBook"
 		}]
 		, "numPages": 180
 		, "notes": [
