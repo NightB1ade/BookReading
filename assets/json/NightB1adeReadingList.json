@@ -186,4 +186,28 @@
 			}
 		]
 	}
+	, {
+		"title": "Secrets of the True Heaven"
+		, "subtitle": "The Nine Heavens and Ten Earths, Book 2"
+		, "creators": [
+			"Jeremy Bai"
+		]
+		, "isbns": [{
+			"isbn": "9798732714685"
+			, "description": "Physical Book"
+		}]
+		, "numPages": 338
+		, "notes": []
+		, "progress": [{
+				"date": "2021-05-13"
+				, "startPage": 1
+				, "endPage": 156
+			}
+			, {
+				"date": "2021-05-14"
+				, "startPage": 157
+				, "endPage": 338
+			}
+		]
+	}
 ]
