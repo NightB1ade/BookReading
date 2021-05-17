@@ -35,6 +35,24 @@
 		, "notes": []
 	}
 	, {
+		"title": "Foundation"
+		, "subtitle": "Foundation Trilogy, Book 1"
+		, "creators": [
+			"Isaac Asimov"
+		]
+		, "isbns": []
+		, "notes": []
+	}
+	, {
+		"title": "Foundation and Empire"
+		, "subtitle": "Foundation Trilogy, Book 2"
+		, "creators": [
+			"Isaac Asimov"
+		]
+		, "isbns": []
+		, "notes": []
+	}
+	, {
 		"title": "Clariel"
 		, "subtitle": "The Old Kingdom, Prequel (Book 4)"
 		, "creators": [
@@ -252,6 +270,15 @@
 			"isbn": "0007718853"
 			, "description": "Physical Book"
 		}]
+		, "notes": []
+	}
+	, {
+		"title": "Second Foundation"
+		, "subtitle": "Foundation Trilogy, Book 3"
+		, "creators": [
+			"Isaac Asimov"
+		]
+		, "isbns": []
 		, "notes": []
 	}
 	, {
