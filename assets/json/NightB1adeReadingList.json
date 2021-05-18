@@ -210,4 +210,35 @@
 			}
 		]
 	}
+	, {
+		"title": "Allegiant"
+		, "subtitle": "Divergent, Book 3"
+		, "creators": [
+			"Veronica Roth"
+		]
+		, "isbns": [{
+			"isbn": "9780007538010"
+			, "description": "eBook"
+		}]
+		, "numPages": 335
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "progress": [{
+				"date": "2021-05-15"
+				, "startPage": 1
+				, "endPage": 39
+			}
+			, {
+				"date": "2021-05-16"
+				, "startPage": 40
+				, "endPage": 100
+			}
+			, {
+				"date": "2021-05-17"
+				, "startPage": 101
+				, "endPage": 335
+			}
+		]
+	}
 ]
