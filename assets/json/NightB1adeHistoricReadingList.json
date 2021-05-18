@@ -161,9 +161,27 @@
 		, "notes": []
 	}
 	, {
+		"title": "The Hitchhiker's Guide to the Galaxy"
+		, "subtitle": "The Hitchhiker's Guide to the Galaxy, Book 1"
+		, "creators": [
+			"Douglas Adams"
+		]
+		, "isbns": []
+		, "notes": []
+	}
+	, {
 		"title": "The Hobbit"
 		, "creators": [
 			"J. R. R. Tolkien"
+		]
+		, "isbns": []
+		, "notes": []
+	}
+	, {
+		"title": "Life, the Universe and Everything"
+		, "subtitle": "The Hitchhiker's Guide to the Galaxy, Book 3"
+		, "creators": [
+			"Douglas Adams"
 		]
 		, "isbns": []
 		, "notes": []
@@ -225,6 +243,15 @@
 		, "notes": []
 	}
 	, {
+		"title": "Mostly Harmless"
+		, "subtitle": "The Hitchhiker's Guide to the Galaxy, Book 5"
+		, "creators": [
+			"Douglas Adams"
+		]
+		, "isbns": []
+		, "notes": []
+	}
+	, {
 		"title": "Northern Lights"
 		, "subtitle": "His Dark Materials Trilogy, Book 1"
 		, "creators": [
@@ -246,6 +273,15 @@
 			"isbn": "9781841499611"
 			, "description": "Physical Book"
 		}]
+		, "notes": []
+	}
+	, {
+		"title": "The Restaurant at the End of the Universe"
+		, "subtitle": "The Hitchhiker's Guide to the Galaxy, Book 2"
+		, "creators": [
+			"Douglas Adams"
+		]
+		, "isbns": []
 		, "notes": []
 	}
 	, {
@@ -277,6 +313,15 @@
 		, "subtitle": "Original Foundation Trilogy, Book 3"
 		, "creators": [
 			"Isaac Asimov"
+		]
+		, "isbns": []
+		, "notes": []
+	}
+	, {
+		"title": "So Long, and Thanks for All the Fish"
+		, "subtitle": "The Hitchhiker's Guide to the Galaxy, Book 4"
+		, "creators": [
+			"Douglas Adams"
 		]
 		, "isbns": []
 		, "notes": []
