@@ -241,4 +241,47 @@
 			}
 		]
 	}
+	, {
+		"title": "Consider Phlebas"
+		, "subtitle": "Culture Series, Book 1"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "isbns": [{
+			"isbn": "9780748109999"
+			, "description": "eBook"
+		}]
+		, "notes": []
+		, "progress": [{
+				"date": "2021-05-18"
+				, "startPercentage": 0
+				, "endPercentage": 0.153
+			}
+			, {
+				"date": "2021-05-19"
+				, "startPercentage": 0.153
+				, "endPercentage": 0.392
+			}
+			, {
+				"date": "2021-05-21"
+				, "startPercentage": 0.392
+				, "endPercentage": 0.667
+			}
+			, {
+				"date": "2021-05-23"
+				, "startPercentage": 0.667
+				, "endPercentage": 0.793
+			}
+			, {
+				"date": "2021-05-24"
+				, "startPercentage": 0.793
+				, "endPercentage": 0.865
+			}
+			, {
+				"date": "2021-05-25"
+				, "startPercentage": 0.865
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
