@@ -284,4 +284,69 @@
 			}
 		]
 	}
+	, {
+		"title": "Patriarch Reliance"
+		, "subtitle": "I Shall Seal the Heavens, Book 1"
+		, "creators": [
+			"耳根 (Er Gen)"
+		]
+		, "isbns": []
+		, "notes": []
+		, "progress": [{
+				"date": "2021-05-26"
+				, "startPercentage": 0
+				, "endPercentage": 0.038
+			}
+			, {
+				"date": "2021-05-27"
+				, "startPercentage": 0.038
+				, "endPercentage": 0.079
+			}
+			, {
+				"date": "2021-05-28"
+				, "startPercentage": 0.079
+				, "endPercentage": 0.159
+			}
+			, {
+				"date": "2021-05-29"
+				, "startPercentage": 0.159
+				, "endPercentage": 0.377
+			}
+			, {
+				"date": "2021-05-30"
+				, "startPercentage": 0.377
+				, "endPercentage": 0.462
+			}
+			, {
+				"date": "2021-05-31"
+				, "startPercentage": 0.462
+				, "endPercentage": 0.516
+			}
+			, {
+				"date": "2021-06-01"
+				, "startPercentage": 0.516
+				, "endPercentage": 0.551
+			}
+			, {
+				"date": "2021-06-02"
+				, "startPercentage": 0.551
+				, "endPercentage": 0.648
+			}
+			, {
+				"date": "2021-06-03"
+				, "startPercentage": 0.648
+				, "endPercentage": 0.751
+			}
+			, {
+				"date": "2021-06-04"
+				, "startPercentage": 0.751
+				, "endPercentage": 0.839
+			}
+			, {
+				"date": "2021-06-06"
+				, "startPercentage": 0.839
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
