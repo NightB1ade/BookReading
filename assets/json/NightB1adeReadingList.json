@@ -349,4 +349,38 @@
 			}
 		]
 	}
+	, {
+		"title": "The Sun’s Blood"
+		, "subtitle": "The Nine Heavens and Ten Earths, Book 3"
+		, "creators": [
+			"Jeremy Bai"
+		]
+		, "isbns": [{
+			"isbn": "9798510840186"
+			, "description": "Physical Book"
+		}]
+		, "numPages": 325
+		, "notes": []
+		, "progress": [{
+				"date": "2021-06-06"
+				, "startPage": 1
+				, "endPage": 49
+			}
+			, {
+				"date": "2021-06-07"
+				, "startPage": 50
+				, "endPage": 80
+			}
+			, {
+				"date": "2021-06-08"
+				, "startPage": 81
+				, "endPage": 159
+			}
+			, {
+				"date": "2021-06-09"
+				, "startPage": 160
+				, "endPage": 325
+			}
+		]
+	}
 ]
