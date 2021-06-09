@@ -4,12 +4,12 @@
 		, "creators": [
 			"Jeremy Bai"
 		]
+		, "numPages": 316
+		, "notes": []
 		, "isbns": [{
 			"isbn": "9798711260271"
 			, "description": "Physical Book"
 		}]
-		, "numPages": 316
-		, "notes": []
 		, "progress": [{
 				"date": "2021-05-03"
 				, "startPage": 1
@@ -30,6 +30,12 @@
 			, "Antonio Fabela"
 			, "Simon Bowland"
 		]
+		, "numPages": 406
+		, "notes": [
+			"Comic series of 15 issues"
+			, "5 issues per volume"
+			, "Cambridgeshire Libraries"
+		]
 		, "isbns": [{
 				"isbn": "9781534311817"
 				, "description": "Volume 1 eBook"
@@ -43,12 +49,6 @@
 				, "description": "Volume 3 eBook"
 			}
 		]
-		, "numPages": 406
-		, "notes": [
-			"Comic series of 15 issues"
-			, "5 issues per volume"
-			, "Cambridgeshire Libraries"
-		]
 		, "progress": [{
 			"date": "2021-05-05"
 			, "startPage": 1
@@ -61,14 +61,14 @@
 			"Pierrick Colinet"
 			, "Elsa Charretier"
 		]
-		, "isbns": [{
-			"isbn": "9781684067138"
-			, "description": "eBook"
-		}]
 		, "numPages": 180
 		, "notes": [
 			"Cambridgeshire Libraries"
 		]
+		, "isbns": [{
+			"isbn": "9781684067138"
+			, "description": "eBook"
+		}]
 		, "progress": [{
 			"date": "2021-05-05"
 			, "startPage": 1
@@ -82,14 +82,14 @@
 			, "Elsa Charretier"
 			, "Daniele Di Nicuolo"
 		]
-		, "isbns": [{
-			"isbn": "9781684064823"
-			, "description": "eBook"
-		}]
 		, "numPages": 124
 		, "notes": [
 			"Cambridgeshire Libraries"
 		]
+		, "isbns": [{
+			"isbn": "9781684064823"
+			, "description": "eBook"
+		}]
 		, "progress": [{
 			"date": "2021-05-06"
 			, "startPage": 1
@@ -110,11 +110,11 @@
 			, "Austin Allen Hamblin"
 			, "Kevin Cuffe"
 		]
-		, "isbns": []
 		, "numPages": 134
 		, "notes": [
 			"Cambridgeshire Libraries eBook"
 		]
+		, "isbns": []
 		, "progress": [{
 			"date": "2021-05-06"
 			, "startPage": 1
@@ -127,13 +127,13 @@
 		, "creators": [
 			"Veronica Roth"
 		]
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
 		, "isbns": [{
 			"isbn": "9780007536733"
 			, "description": "eBook"
 		}]
-		, "notes": [
-			"Cambridgeshire Libraries"
-		]
 		, "progress": [{
 				"date": "2021-05-07"
 				, "startPercentage": 0
@@ -157,13 +157,13 @@
 		, "creators": [
 			"Veronica Roth"
 		]
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
 		, "isbns": [{
 			"isbn": "9780007479900"
 			, "description": "eBook"
 		}]
-		, "notes": [
-			"Cambridgeshire Libraries"
-		]
 		, "progress": [{
 				"date": "2021-05-09"
 				, "startPercentage": 0
@@ -192,12 +192,12 @@
 		, "creators": [
 			"Jeremy Bai"
 		]
+		, "numPages": 338
+		, "notes": []
 		, "isbns": [{
 			"isbn": "9798732714685"
 			, "description": "Physical Book"
 		}]
-		, "numPages": 338
-		, "notes": []
 		, "progress": [{
 				"date": "2021-05-13"
 				, "startPage": 1
@@ -216,14 +216,14 @@
 		, "creators": [
 			"Veronica Roth"
 		]
-		, "isbns": [{
-			"isbn": "9780007538010"
-			, "description": "eBook"
-		}]
 		, "numPages": 335
 		, "notes": [
 			"Cambridgeshire Libraries"
 		]
+		, "isbns": [{
+			"isbn": "9780007538010"
+			, "description": "eBook"
+		}]
 		, "progress": [{
 				"date": "2021-05-15"
 				, "startPage": 1
@@ -247,11 +247,11 @@
 		, "creators": [
 			"Iain M. Banks"
 		]
+		, "notes": []
 		, "isbns": [{
 			"isbn": "9780748109999"
 			, "description": "eBook"
 		}]
-		, "notes": []
 		, "progress": [{
 				"date": "2021-05-18"
 				, "startPercentage": 0
@@ -290,8 +290,8 @@
 		, "creators": [
 			"耳根 (Er Gen)"
 		]
-		, "isbns": []
 		, "notes": []
+		, "isbns": []
 		, "progress": [{
 				"date": "2021-05-26"
 				, "startPercentage": 0
@@ -355,12 +355,12 @@
 		, "creators": [
 			"Jeremy Bai"
 		]
+		, "numPages": 325
+		, "notes": []
 		, "isbns": [{
 			"isbn": "9798510840186"
 			, "description": "Physical Book"
 		}]
-		, "numPages": 325
-		, "notes": []
 		, "progress": [{
 				"date": "2021-06-06"
 				, "startPage": 1
