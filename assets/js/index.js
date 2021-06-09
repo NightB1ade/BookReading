@@ -59,8 +59,17 @@ function DisplayReadingList() {
 				: ""
 			)
 			+ (
+				item.notes.length !== 0
+				? "<p><ul><li>"
+					+ item.notes.join("</li><li>")
+					+ "</li></ul></p>"
+				: ""
+			)
+			+ "<div class='accordion'>"
+			+ (
 				item.isbns.length > 0
-				? "<p><table>"
+				? "<h3>ISBNs</h3>"
+					+ "<div><table>"
 					+ "<thead><tr>"
 					+ "<th>ISBN</th>"
 					+ "<th>Description</th>"
@@ -73,17 +82,11 @@ function DisplayReadingList() {
 							: ""
 						) + "</td></tr>";
 					}).join("")
-					+ "</tr></tbody></table></p>"
+					+ "</tr></tbody></table></div>"
 				: ""
 			)
-			+ (
-				item.notes.length !== 0
-				? "<p><ul><li>"
-					+ item.notes.join("</li><li>")
-					+ "</li></ul></p>"
-				: ""
-			)
-			+ "<p><table>"
+			+ "<h3>Reading Progress</h3>"
+			+ "<div><table>"
 			+ "<thead><tr>"
 			+ "<th>Date</th>"
 			+ "<th colspan='2' style='text-align:center'>Start</th>"
@@ -110,9 +113,14 @@ function DisplayReadingList() {
 		});
 
 		html += "</tbody>"
-			+ "</table></p>"
+			+ "</table></div>"
+			+ "</div>"
 			+ "<hr>";
 	}
 
 	$("#BookReading").html(html);
+	$(".accordion").accordion({
+		active: false
+		, collapsible: true
+	});
 }
