@@ -6,7 +6,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0060278250"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -18,7 +18,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781841495927"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -30,7 +30,7 @@
 		]
 		, "isbns": [{
 			"isbn": "043999358X"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -60,7 +60,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781471403842"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -72,7 +72,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0747538484"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -84,7 +84,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9780747591054"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -96,7 +96,7 @@
 		]
 		, "isbns": [{
 			"isbn": "074754624X"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -108,7 +108,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0747581088"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -120,7 +120,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0747551006"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -132,7 +132,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0747532745"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -144,7 +144,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0747546290"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -156,7 +156,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781841499628"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -194,7 +194,7 @@
 		]
 		, "isbns": [{
 			"isbn": "000713732X"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -214,7 +214,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781841495903"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -226,7 +226,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781841499604"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -238,7 +238,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9780099534440"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -259,7 +259,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0590660543"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -271,7 +271,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781841499611"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -292,7 +292,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781841495941"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -304,7 +304,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0007718853"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -334,7 +334,7 @@
 		]
 		, "isbns": [{
 			"isbn": "0590112899"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}
@@ -346,7 +346,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9780356501109"
-			, "description": "Physical Book"
+			, "description": "Hardback"
 		}]
 		, "notes": []
 	}
@@ -358,7 +358,7 @@
 		]
 		, "isbns": [{
 			"isbn": "9781841495965"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "notes": []
 	}

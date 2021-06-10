@@ -8,7 +8,7 @@
 		, "notes": []
 		, "isbns": [{
 			"isbn": "9798711260271"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "progress": [{
 				"date": "2021-05-03"
@@ -196,7 +196,7 @@
 		, "notes": []
 		, "isbns": [{
 			"isbn": "9798732714685"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "progress": [{
 				"date": "2021-05-13"
@@ -359,7 +359,7 @@
 		, "notes": []
 		, "isbns": [{
 			"isbn": "9798510840186"
-			, "description": "Physical Book"
+			, "description": "Paperback"
 		}]
 		, "progress": [{
 				"date": "2021-06-06"
