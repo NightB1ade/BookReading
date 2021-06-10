@@ -30,6 +30,21 @@
 					, "minLength": 1
 				}
 			}
+			, "numPages": {
+				"type": "integer"
+				, "title": "No. Pages"
+				, "minimum": 1
+			}
+			, "notes": {
+				"type": "array"
+				, "title": "Notes"
+				, "uniqueItems": true
+				, "items": {
+					"type": "string"
+					, "title": "Note"
+					, "minLength": 1
+				}
+			}
 			, "isbns": {
 				"type": "array"
 				, "title": "ISBNs"
@@ -60,21 +75,6 @@
 							, "title": "Description"
 						}
 					}
-				}
-			}
-			, "numPages": {
-				"type": "integer"
-				, "title": "No. Pages"
-				, "minimum": 1
-			}
-			, "notes": {
-				"type": "array"
-				, "title": "Notes"
-				, "uniqueItems": true
-				, "items": {
-					"type": "string"
-					, "title": "Note"
-					, "minLength": 1
 				}
 			}
 			, "progress": {
