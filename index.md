@@ -1,7 +1,6 @@
 ---
+jQueryHead: true
 ---
-
-{% include jQuery.html %}
 
 <div id="BookReading">Loading…</div>
 
