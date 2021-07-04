@@ -383,4 +383,47 @@
 			}
 		]
 	}
+	, {
+		"title": "The Player of Games"
+		, "subtitle": "Culture Series, Book 2"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780748110063"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2021-06-14"
+				, "startPercentage": 0
+				, "endPercentage": 0.213
+			}
+			, {
+				"date": "2021-06-15"
+				, "startPercentage": 0.213
+				, "endPercentage": 0.374
+			}
+			, {
+				"date": "2021-06-16"
+				, "startPercentage": 0.374
+				, "endPercentage": 0.484
+			}
+			, {
+				"date": "2021-06-17"
+				, "startPercentage": 0.484
+				, "endPercentage": 0.563
+			}
+			, {
+				"date": "2021-06-22"
+				, "startPercentage": 0.563
+				, "endPercentage": 0.729
+			}
+			, {
+				"date": "2021-07-03"
+				, "startPercentage": 0.729
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
