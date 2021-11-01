@@ -11,7 +11,7 @@ function DisplayHistoricReadingList() {
 		+ "<thead><tr>"
 		+ "<th>Title</th>"
 		+ "<th>Subtitle</th>"
-		+ "<th>Creators</th>"
+		+ "<th>Creator(s)</th>"
 		+ "</tr></thead>"
 		+ "<tbody>"
 		+ historicReadingList.map(function(x, i) {
