@@ -426,4 +426,101 @@
 			}
 		]
 	}
+	, {
+		"title": "Cutting into the Southern Domain"
+		, "subtitle": "I Shall Seal the Heavens, Book 2"
+		, "creators": [
+			"耳根 (Er Gen)"
+		]
+		, "notes": [
+			"Reading progress pre-24/08/2021 missing"
+		]
+		, "isbns": []
+		, "progress": [{
+				"date": "2021-08-24"
+				, "startPercentage": 0
+				, "endPercentage": 0.212
+			}
+			, {
+				"date": "2021-08-25"
+				, "startPercentage": 0.212
+				, "endPercentage": 0.240
+			}
+			, {
+				"date": "2021-08-27"
+				, "startPercentage": 0.240
+				, "endPercentage": 0.299
+			}
+			, {
+				"date": "2021-09-01"
+				, "startPercentage": 0.299
+				, "endPercentage": 0.316
+			}
+			, {
+				"date": "2021-09-02"
+				, "startPercentage": 0.316
+				, "endPercentage": 0.357
+			}
+			, {
+				"date": "2021-09-10"
+				, "startPercentage": 0.357
+				, "endPercentage": 0.415
+			}
+			, {
+				"date": "2021-09-13"
+				, "startPercentage": 0.415
+				, "endPercentage": 0.462
+			}
+			, {
+				"date": "2021-09-20"
+				, "startPercentage": 0.462
+				, "endPercentage": 0.550
+			}
+			, {
+				"date": "2021-10-06"
+				, "startPercentage": 0.550
+				, "endPercentage": 0.602
+			}
+			, {
+				"date": "2021-10-07"
+				, "startPercentage": 0.602
+				, "endPercentage": 0.628
+			}
+			, {
+				"date": "2021-10-09"
+				, "startPercentage": 0.628
+				, "endPercentage": 0.665
+			}
+			, {
+				"date": "2021-10-10"
+				, "startPercentage": 0.665
+				, "endPercentage": 0.738
+			}
+			, {
+				"date": "2021-10-16"
+				, "startPercentage": 0.738
+				, "endPercentage": 0.783
+			}
+			, {
+				"date": "2021-10-25"
+				, "startPercentage": 0.783
+				, "endPercentage": 0.826
+			}
+			, {
+				"date": "2021-11-02"
+				, "startPercentage": 0.826
+				, "endPercentage": 0.875
+			}
+			, {
+				"date": "2021-11-07"
+				, "startPercentage": 0.875
+				, "endPercentage": 0.924
+			}
+			, {
+				"date": "2021-11-07"
+				, "startPercentage": 0.924
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
