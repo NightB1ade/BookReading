@@ -523,4 +523,49 @@
 			}
 		]
 	}
+	, {
+		"title": "Beta-Reading"
+		, "subtitle": "Beta-Reading, Book 2"
+		, "creators": [
+			"Jeremy Bai"
+		]
+		, "notes": []
+		, "isbns": []
+		, "progress": [{
+				"date": "2021-12-03"
+				, "startPercentage": 0
+				, "endPercentage": 0.232
+			}
+			, {
+				"date": "2021-12-04"
+				, "startPercentage": 0.232
+				, "endPercentage": 0.266
+			}
+			, {
+				"date": "2021-12-06"
+				, "startPercentage": 0.266
+				, "endPercentage": 0.475
+			}
+			, {
+				"date": "2021-12-07"
+				, "startPercentage": 0.475
+				, "endPercentage": 0.577
+			}
+			, {
+				"date": "2021-12-09"
+				, "startPercentage": 0.577
+				, "endPercentage": 0.659
+			}
+			, {
+				"date": "2021-12-10"
+				, "startPercentage": 0.659
+				, "endPercentage": 0.775
+			}
+			, {
+				"date": "2021-12-11"
+				, "startPercentage": 0.775
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
