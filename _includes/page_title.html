@@ -1,6 +1,11 @@
 <section id="title">
-	<h1>{{ page.title | default: site.title }}</h1>
-	{%- if page.title != null %}
-	<p><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
-	{%- endif %}
+<div class="container mt-2">
+	<h1 class="display-1 text-center">{{ site.title }}</h1>
+	<nav class="mt-3">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item"><a href="/">NightB1ade’s Sites</a></li>
+			<li class="breadcrumb-item active">{{ page.title | default: "Book Reading" }}</li>
+		</ol>
+	</nav>
+</div>
 </section>
