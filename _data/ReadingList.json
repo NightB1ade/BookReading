@@ -568,4 +568,47 @@
 			}
 		]
 	}
+	, {
+		"title": "Use of Weapons"
+		, "subtitle": "Culture Series, Book 3"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780748110087"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2023-05-30"
+				, "startPercentage": 0
+				, "endPercentage": 0.089
+			}
+			, {
+				"date": "2021-05-31"
+				, "startPercentage": 0.089
+				, "endPercentage": 0.265
+			}
+			, {
+				"date": "2023-06-03"
+				, "startPercentage": 0.265
+				, "endPercentage": 0.402
+			}
+			, {
+				"date": "2023-06-04"
+				, "startPercentage": 0.402
+				, "endPercentage": 0.562
+			}
+			, {
+				"date": "2023-06-05"
+				, "startPercentage": 0.562
+				, "endPercentage": 0.748
+			}
+			, {
+				"date": "2023-06-06"
+				, "startPercentage": 0.748
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
