@@ -6,6 +6,7 @@
 	, "items": {
 		"type": "object"
 		, "title": "Book"
+		, "headerTemplate": "{{ self.title }}"
 		, "properties": {
 			"title": {
 				"type": "string"
