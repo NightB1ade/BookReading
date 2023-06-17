@@ -611,4 +611,42 @@
 			}
 		]
 	}
+	, {
+		"title": "The State of the Art"
+		, "subtitle": "Culture Series, Book 4"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780748110070"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2023-06-06"
+				, "startPercentage": 0
+				, "endPercentage": 0.039
+			}
+			, {
+				"date": "2023-06-08"
+				, "startPercentage": 0.039
+				, "endPercentage": 0.388
+			}
+			, {
+				"date": "2023-06-14"
+				, "startPercentage": 0.388
+				, "endPercentage": 0.632
+			}
+			, {
+				"date": "2023-06-15"
+				, "startPercentage": 0.632
+				, "endPercentage": 0.655
+			}
+			, {
+				"date": "2023-06-16"
+				, "startPercentage": 0.655
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
