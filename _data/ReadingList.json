@@ -649,4 +649,38 @@
 			}
 		]
 	}
+	, {
+		"title": "The Colour of Magic"
+		, "subtitle": "Discworld, Book 1"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 287
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552166591"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2023-08-26"
+				, "startPage": 1
+				, "endPage": 39
+			}
+			, {
+				"date": "2023-08-27"
+				, "startPage": 40
+				, "endPage": 56
+			}
+			, {
+				"date": "2023-08-28"
+				, "startPage": 57
+				, "endPage": 84
+			}
+			, {
+				"date": "2023-08-29"
+				, "startPage": 85
+				, "endPage": 287
+			}
+		]
+	}
 ]
