@@ -683,4 +683,57 @@
 			}
 		]
 	}
+	, {
+		"title": "Excession"
+		, "subtitle": "Culture Series, Book 5"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780748110001"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2023-09-10"
+				, "startPercentage": 0
+				, "endPercentage": 0.056
+			}
+			, {
+				"date": "2023-09-11"
+				, "startPercentage": 0.056
+				, "endPercentage": 0.199
+			}
+			, {
+				"date": "2023-09-12"
+				, "startPercentage": 0.199
+				, "endPercentage": 0.346
+			}
+			, {
+				"date": "2023-09-13"
+				, "startPercentage": 0.346
+				, "endPercentage": 0.440
+			}
+			, {
+				"date": "2023-09-14"
+				, "startPercentage": 0.440
+				, "endPercentage": 0.685
+			}
+			, {
+				"date": "2023-09-15"
+				, "startPercentage": 0.685
+				, "endPercentage": 0.768
+			}
+			, {
+				"date": "2023-09-16"
+				, "startPercentage": 0.768
+				, "endPercentage": 0.816
+			}
+			, {
+				"date": "2023-09-20"
+				, "startPercentage": 0.816
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
