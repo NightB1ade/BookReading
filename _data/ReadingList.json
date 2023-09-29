@@ -736,4 +736,52 @@
 			}
 		]
 	}
+	, {
+		"title": "Inversions"
+		, "subtitle": "Culture Series, Book 6"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780748110025"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2023-09-22"
+				, "startPercentage": 0
+				, "endPercentage": 0.104
+			}
+			, {
+				"date": "2023-09-23"
+				, "startPercentage": 0.104
+				, "endPercentage": 0.197
+			}
+			, {
+				"date": "2023-09-24"
+				, "startPercentage": 0.197
+				, "endPercentage": 0.277
+			}
+			, {
+				"date": "2023-09-25"
+				, "startPercentage": 0.277
+				, "endPercentage": 0.454
+			}
+			, {
+				"date": "2023-09-26"
+				, "startPercentage": 0.454
+				, "endPercentage": 0.737
+			}
+			, {
+				"date": "2023-09-27"
+				, "startPercentage": 0.737
+				, "endPercentage": 0.834
+			}
+			, {
+				"date": "2023-09-28"
+				, "startPercentage": 0.834
+				, "endPercentage": 1
+			}
+		]
+	}
 ]
