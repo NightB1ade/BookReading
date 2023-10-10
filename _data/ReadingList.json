@@ -12,13 +12,11 @@
 		}]
 		, "progress": [{
 				"date": "2021-05-03"
-				, "startPage": 1
-				, "endPage": 215
+				, "page": 215
 			}
 			, {
 				"date": "2021-05-04"
-				, "startPage": 216
-				, "endPage": 316
+				, "page": 316
 			}
 		]
 	}
@@ -51,8 +49,7 @@
 		]
 		, "progress": [{
 			"date": "2021-05-05"
-			, "startPage": 1
-			, "endPage": 406
+			, "page": 406
 		}]
 	}
 	, {
@@ -71,8 +68,7 @@
 		}]
 		, "progress": [{
 			"date": "2021-05-05"
-			, "startPage": 1
-			, "endPage": 180
+			, "page": 180
 		}]
 	}
 	, {
@@ -92,8 +88,7 @@
 		}]
 		, "progress": [{
 			"date": "2021-05-06"
-			, "startPage": 1
-			, "endPage": 124
+			, "page": 124
 		}]
 	}
 	, {
@@ -117,8 +112,7 @@
 		, "isbns": []
 		, "progress": [{
 			"date": "2021-05-06"
-			, "startPage": 1
-			, "endPage": 134
+			, "page": 134
 		}]
 	}
 	, {
@@ -136,18 +130,15 @@
 		}]
 		, "progress": [{
 				"date": "2021-05-07"
-				, "startPercentage": 0
-				, "endPercentage": 0.256
+				, "percentage": 0.256
 			}
 			, {
 				"date": "2021-05-08"
-				, "startPercentage": 0.256
-				, "endPercentage": 0.821
+				, "percentage": 0.821
 			}
 			, {
 				"date": "2021-05-09"
-				, "startPercentage": 0.821
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -166,23 +157,19 @@
 		}]
 		, "progress": [{
 				"date": "2021-05-09"
-				, "startPercentage": 0
-				, "endPercentage": 0.086
+				, "percentage": 0.086
 			}
 			, {
 				"date": "2021-05-10"
-				, "startPercentage": 0.086
-				, "endPercentage": 0.438
+				, "percentage": 0.438
 			}
 			, {
 				"date": "2021-05-11"
-				, "startPercentage": 0.438
-				, "endPercentage": 0.574
+				, "percentage": 0.574
 			}
 			, {
 				"date": "2021-05-12"
-				, "startPercentage": 0.574
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -200,13 +187,11 @@
 		}]
 		, "progress": [{
 				"date": "2021-05-13"
-				, "startPage": 1
-				, "endPage": 156
+				, "page": 156
 			}
 			, {
 				"date": "2021-05-14"
-				, "startPage": 157
-				, "endPage": 338
+				, "page": 338
 			}
 		]
 	}
@@ -226,18 +211,15 @@
 		}]
 		, "progress": [{
 				"date": "2021-05-15"
-				, "startPage": 1
-				, "endPage": 39
+				, "page": 39
 			}
 			, {
 				"date": "2021-05-16"
-				, "startPage": 40
-				, "endPage": 100
+				, "page": 100
 			}
 			, {
 				"date": "2021-05-17"
-				, "startPage": 101
-				, "endPage": 335
+				, "page": 335
 			}
 		]
 	}
@@ -254,33 +236,27 @@
 		}]
 		, "progress": [{
 				"date": "2021-05-18"
-				, "startPercentage": 0
-				, "endPercentage": 0.153
+				, "percentage": 0.153
 			}
 			, {
 				"date": "2021-05-19"
-				, "startPercentage": 0.153
-				, "endPercentage": 0.392
+				, "percentage": 0.392
 			}
 			, {
 				"date": "2021-05-21"
-				, "startPercentage": 0.392
-				, "endPercentage": 0.667
+				, "percentage": 0.667
 			}
 			, {
 				"date": "2021-05-23"
-				, "startPercentage": 0.667
-				, "endPercentage": 0.793
+				, "percentage": 0.793
 			}
 			, {
 				"date": "2021-05-24"
-				, "startPercentage": 0.793
-				, "endPercentage": 0.865
+				, "percentage": 0.865
 			}
 			, {
 				"date": "2021-05-25"
-				, "startPercentage": 0.865
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -294,58 +270,47 @@
 		, "isbns": []
 		, "progress": [{
 				"date": "2021-05-26"
-				, "startPercentage": 0
-				, "endPercentage": 0.038
+				, "percentage": 0.038
 			}
 			, {
 				"date": "2021-05-27"
-				, "startPercentage": 0.038
-				, "endPercentage": 0.079
+				, "percentage": 0.079
 			}
 			, {
 				"date": "2021-05-28"
-				, "startPercentage": 0.079
-				, "endPercentage": 0.159
+				, "percentage": 0.159
 			}
 			, {
 				"date": "2021-05-29"
-				, "startPercentage": 0.159
-				, "endPercentage": 0.377
+				, "percentage": 0.377
 			}
 			, {
 				"date": "2021-05-30"
-				, "startPercentage": 0.377
-				, "endPercentage": 0.462
+				, "percentage": 0.462
 			}
 			, {
 				"date": "2021-05-31"
-				, "startPercentage": 0.462
-				, "endPercentage": 0.516
+				, "percentage": 0.516
 			}
 			, {
 				"date": "2021-06-01"
-				, "startPercentage": 0.516
-				, "endPercentage": 0.551
+				, "percentage": 0.551
 			}
 			, {
 				"date": "2021-06-02"
-				, "startPercentage": 0.551
-				, "endPercentage": 0.648
+				, "percentage": 0.648
 			}
 			, {
 				"date": "2021-06-03"
-				, "startPercentage": 0.648
-				, "endPercentage": 0.751
+				, "percentage": 0.751
 			}
 			, {
 				"date": "2021-06-04"
-				, "startPercentage": 0.751
-				, "endPercentage": 0.839
+				, "percentage": 0.839
 			}
 			, {
 				"date": "2021-06-06"
-				, "startPercentage": 0.839
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -363,23 +328,19 @@
 		}]
 		, "progress": [{
 				"date": "2021-06-06"
-				, "startPage": 1
-				, "endPage": 49
+				, "page": 49
 			}
 			, {
 				"date": "2021-06-07"
-				, "startPage": 50
-				, "endPage": 80
+				, "page": 80
 			}
 			, {
 				"date": "2021-06-08"
-				, "startPage": 81
-				, "endPage": 159
+				, "page": 159
 			}
 			, {
 				"date": "2021-06-09"
-				, "startPage": 160
-				, "endPage": 325
+				, "page": 325
 			}
 		]
 	}
@@ -396,33 +357,27 @@
 		}]
 		, "progress": [{
 				"date": "2021-06-14"
-				, "startPercentage": 0
-				, "endPercentage": 0.213
+				, "percentage": 0.213
 			}
 			, {
 				"date": "2021-06-15"
-				, "startPercentage": 0.213
-				, "endPercentage": 0.374
+				, "percentage": 0.374
 			}
 			, {
 				"date": "2021-06-16"
-				, "startPercentage": 0.374
-				, "endPercentage": 0.484
+				, "percentage": 0.484
 			}
 			, {
 				"date": "2021-06-17"
-				, "startPercentage": 0.484
-				, "endPercentage": 0.563
+				, "percentage": 0.563
 			}
 			, {
 				"date": "2021-06-22"
-				, "startPercentage": 0.563
-				, "endPercentage": 0.729
+				, "percentage": 0.729
 			}
 			, {
 				"date": "2021-07-03"
-				, "startPercentage": 0.729
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -438,88 +393,71 @@
 		, "isbns": []
 		, "progress": [{
 				"date": "2021-08-24"
-				, "startPercentage": 0
-				, "endPercentage": 0.212
+				, "percentage": 0.212
 			}
 			, {
 				"date": "2021-08-25"
-				, "startPercentage": 0.212
-				, "endPercentage": 0.240
+				, "percentage": 0.240
 			}
 			, {
 				"date": "2021-08-27"
-				, "startPercentage": 0.240
-				, "endPercentage": 0.299
+				, "percentage": 0.299
 			}
 			, {
 				"date": "2021-09-01"
-				, "startPercentage": 0.299
-				, "endPercentage": 0.316
+				, "percentage": 0.316
 			}
 			, {
 				"date": "2021-09-02"
-				, "startPercentage": 0.316
-				, "endPercentage": 0.357
+				, "percentage": 0.357
 			}
 			, {
 				"date": "2021-09-10"
-				, "startPercentage": 0.357
-				, "endPercentage": 0.415
+				, "percentage": 0.415
 			}
 			, {
 				"date": "2021-09-13"
-				, "startPercentage": 0.415
-				, "endPercentage": 0.462
+				, "percentage": 0.462
 			}
 			, {
 				"date": "2021-09-20"
-				, "startPercentage": 0.462
-				, "endPercentage": 0.550
+				, "percentage": 0.550
 			}
 			, {
 				"date": "2021-10-06"
-				, "startPercentage": 0.550
-				, "endPercentage": 0.602
+				, "percentage": 0.602
 			}
 			, {
 				"date": "2021-10-07"
-				, "startPercentage": 0.602
-				, "endPercentage": 0.628
+				, "percentage": 0.628
 			}
 			, {
 				"date": "2021-10-09"
-				, "startPercentage": 0.628
-				, "endPercentage": 0.665
+				, "percentage": 0.665
 			}
 			, {
 				"date": "2021-10-10"
-				, "startPercentage": 0.665
-				, "endPercentage": 0.738
+				, "percentage": 0.738
 			}
 			, {
 				"date": "2021-10-16"
-				, "startPercentage": 0.738
-				, "endPercentage": 0.783
+				, "percentage": 0.783
 			}
 			, {
 				"date": "2021-10-25"
-				, "startPercentage": 0.783
-				, "endPercentage": 0.826
+				, "percentage": 0.826
 			}
 			, {
 				"date": "2021-11-02"
-				, "startPercentage": 0.826
-				, "endPercentage": 0.875
+				, "percentage": 0.875
 			}
 			, {
 				"date": "2021-11-07"
-				, "startPercentage": 0.875
-				, "endPercentage": 0.924
+				, "percentage": 0.924
 			}
 			, {
 				"date": "2021-11-07"
-				, "startPercentage": 0.924
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -533,38 +471,31 @@
 		, "isbns": []
 		, "progress": [{
 				"date": "2021-12-03"
-				, "startPercentage": 0
-				, "endPercentage": 0.232
+				, "percentage": 0.232
 			}
 			, {
 				"date": "2021-12-04"
-				, "startPercentage": 0.232
-				, "endPercentage": 0.266
+				, "percentage": 0.266
 			}
 			, {
 				"date": "2021-12-06"
-				, "startPercentage": 0.266
-				, "endPercentage": 0.475
+				, "percentage": 0.475
 			}
 			, {
 				"date": "2021-12-07"
-				, "startPercentage": 0.475
-				, "endPercentage": 0.577
+				, "percentage": 0.577
 			}
 			, {
 				"date": "2021-12-09"
-				, "startPercentage": 0.577
-				, "endPercentage": 0.659
+				, "percentage": 0.659
 			}
 			, {
 				"date": "2021-12-10"
-				, "startPercentage": 0.659
-				, "endPercentage": 0.775
+				, "percentage": 0.775
 			}
 			, {
 				"date": "2021-12-11"
-				, "startPercentage": 0.775
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -581,33 +512,27 @@
 		}]
 		, "progress": [{
 				"date": "2023-05-30"
-				, "startPercentage": 0
-				, "endPercentage": 0.089
+				, "percentage": 0.089
 			}
 			, {
 				"date": "2023-05-31"
-				, "startPercentage": 0.089
-				, "endPercentage": 0.265
+				, "percentage": 0.265
 			}
 			, {
 				"date": "2023-06-03"
-				, "startPercentage": 0.265
-				, "endPercentage": 0.402
+				, "percentage": 0.402
 			}
 			, {
 				"date": "2023-06-04"
-				, "startPercentage": 0.402
-				, "endPercentage": 0.562
+				, "percentage": 0.562
 			}
 			, {
 				"date": "2023-06-05"
-				, "startPercentage": 0.562
-				, "endPercentage": 0.748
+				, "percentage": 0.748
 			}
 			, {
 				"date": "2023-06-06"
-				, "startPercentage": 0.748
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -624,28 +549,23 @@
 		}]
 		, "progress": [{
 				"date": "2023-06-06"
-				, "startPercentage": 0
-				, "endPercentage": 0.039
+				, "percentage": 0.039
 			}
 			, {
 				"date": "2023-06-08"
-				, "startPercentage": 0.039
-				, "endPercentage": 0.388
+				, "percentage": 0.388
 			}
 			, {
 				"date": "2023-06-14"
-				, "startPercentage": 0.388
-				, "endPercentage": 0.632
+				, "percentage": 0.632
 			}
 			, {
 				"date": "2023-06-15"
-				, "startPercentage": 0.632
-				, "endPercentage": 0.655
+				, "percentage": 0.655
 			}
 			, {
 				"date": "2023-06-16"
-				, "startPercentage": 0.655
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -663,23 +583,19 @@
 		}]
 		, "progress": [{
 				"date": "2023-08-26"
-				, "startPage": 1
-				, "endPage": 39
+				, "page": 39
 			}
 			, {
 				"date": "2023-08-27"
-				, "startPage": 40
-				, "endPage": 56
+				, "page": 56
 			}
 			, {
 				"date": "2023-08-28"
-				, "startPage": 57
-				, "endPage": 84
+				, "page": 84
 			}
 			, {
 				"date": "2023-08-29"
-				, "startPage": 85
-				, "endPage": 287
+				, "page": 287
 			}
 		]
 	}
@@ -696,43 +612,35 @@
 		}]
 		, "progress": [{
 				"date": "2023-09-10"
-				, "startPercentage": 0
-				, "endPercentage": 0.056
+				, "percentage": 0.056
 			}
 			, {
 				"date": "2023-09-11"
-				, "startPercentage": 0.056
-				, "endPercentage": 0.199
+				, "percentage": 0.199
 			}
 			, {
 				"date": "2023-09-12"
-				, "startPercentage": 0.199
-				, "endPercentage": 0.346
+				, "percentage": 0.346
 			}
 			, {
 				"date": "2023-09-13"
-				, "startPercentage": 0.346
-				, "endPercentage": 0.440
+				, "percentage": 0.440
 			}
 			, {
 				"date": "2023-09-14"
-				, "startPercentage": 0.440
-				, "endPercentage": 0.685
+				, "percentage": 0.685
 			}
 			, {
 				"date": "2023-09-15"
-				, "startPercentage": 0.685
-				, "endPercentage": 0.768
+				, "percentage": 0.768
 			}
 			, {
 				"date": "2023-09-16"
-				, "startPercentage": 0.768
-				, "endPercentage": 0.816
+				, "percentage": 0.816
 			}
 			, {
 				"date": "2023-09-20"
-				, "startPercentage": 0.816
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}
@@ -749,38 +657,31 @@
 		}]
 		, "progress": [{
 				"date": "2023-09-22"
-				, "startPercentage": 0
-				, "endPercentage": 0.104
+				, "percentage": 0.104
 			}
 			, {
 				"date": "2023-09-23"
-				, "startPercentage": 0.104
-				, "endPercentage": 0.197
+				, "percentage": 0.197
 			}
 			, {
 				"date": "2023-09-24"
-				, "startPercentage": 0.197
-				, "endPercentage": 0.277
+				, "percentage": 0.277
 			}
 			, {
 				"date": "2023-09-25"
-				, "startPercentage": 0.277
-				, "endPercentage": 0.454
+				, "percentage": 0.454
 			}
 			, {
 				"date": "2023-09-26"
-				, "startPercentage": 0.454
-				, "endPercentage": 0.737
+				, "percentage": 0.737
 			}
 			, {
 				"date": "2023-09-27"
-				, "startPercentage": 0.737
-				, "endPercentage": 0.834
+				, "percentage": 0.834
 			}
 			, {
 				"date": "2023-09-28"
-				, "startPercentage": 0.834
-				, "endPercentage": 1
+				, "percentage": 1
 			}
 		]
 	}

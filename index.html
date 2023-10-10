@@ -98,12 +98,12 @@
 											{%- for date in entry.progress %}
 											<tr>
 												<td>{{ date.date | date: "%d/%m/%Y" }}</td>
-												{%- if date.endPage != null %}
-												<td class="text-end">{{ date.endPage }}</td>
-												<td class="text-end">({{ date.endPage | times: 100.0 | divided_by: entry.numPages | round: 1 }}%)</td>
+												{%- if date.page != null %}
+												<td class="text-end">{{ date.page }}</td>
+												<td class="text-end">({{ date.page | times: 100.0 | divided_by: entry.numPages | round: 1 }}%)</td>
 												{%- else %}
 												<td class="text-end"
-													colspan="2">{{ date.endPercentage | times: 100.0 | round: 1 }}%</td>
+													colspan="2">{{ date.percentage | times: 100.0 | round: 1 }}%</td>
 												{%- endif %}
 											</tr>
 											{%- endfor %}
