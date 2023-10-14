@@ -685,4 +685,39 @@
 			}
 		]
 	}
+	, {
+		"title": "The Light Fantastic"
+		, "subtitle": "Discword, Book 2"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "6781407034393"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2023-10-09"
+				, "percentage": 0.160
+			}
+			, {
+				"date": "2023-10-10"
+				, "percentage": 0.459
+			}
+			, {
+				"date": "2023-10-11"
+				, "percentage": 0.648
+			}
+			, {
+				"date": "2023-10-12"
+				, "percentage": 0.809
+			}
+			, {
+				"date": "2023-10-13"
+				, "percentage": 1
+			}
+		]
+	}
 ]
