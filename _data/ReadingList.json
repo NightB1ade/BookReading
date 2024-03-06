@@ -687,7 +687,7 @@
 	}
 	, {
 		"title": "The Light Fantastic"
-		, "subtitle": "Discword, Book 2"
+		, "subtitle": "Discworld, Book 2"
 		, "creators": [
 			"Terry Pratchett"
 		]
@@ -717,6 +717,44 @@
 			, {
 				"date": "2023-10-13"
 				, "percentage": 1
+			}
+		]
+	}
+	, {
+		"title": "Equal Rites"
+		, "subtitle": "Discworld, Book 3"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 285
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552166614"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-02-26"
+				, "page": 39
+			}
+			, {
+				"date": "2024-02-28"
+				, "page": 117
+			}
+			, {
+				"date": "2024-03-01"
+				, "page": 157
+			}
+			, {
+				"date": "2024-03-02"
+				, "page": 205
+			}
+			, {
+				"date": "2024-03-04"
+				, "page": 252
+			}
+			, {
+				"date": "2024-03-06"
+				, "page": 285
 			}
 		]
 	}
