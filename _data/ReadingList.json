@@ -758,4 +758,37 @@
 			}
 		]
 	}
+	, {
+		"title": "Minecraft: The Island"
+		, "creators": [
+			"Max Brooks"
+		]
+		, "numPages": 271
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781784758653"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-03-09"
+				, "page": 43
+			}
+			, {
+				"date": "2024-03-14"
+				, "page": 99
+			}
+			, {
+				"date": "2024-03-15"
+				, "page": 172
+			}
+			, {
+				"date": "2024-03-16"
+				, "page": 195
+			}
+			, {
+				"date": "2024-03-17"
+				, "page": 271
+			}
+		]
+	}
 ]
