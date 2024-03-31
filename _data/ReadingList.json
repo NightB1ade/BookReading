@@ -824,4 +824,38 @@
 			}
 		]
 	}
+	, {
+		"title": "The Three-Body Problem"
+		, "subtitle": "The Three-Body Problem, Book 1"
+		, "creators": [
+			"Cixin Liu"
+			,"Ken Liu"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781784971540"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2024-03-24"
+				, "percentage": 0.082
+			}
+			, {
+				"date": "2024-03-25"
+				, "percentage": 0.151
+			}
+			, {
+				"date": "2024-03-27"
+				, "percentage": 0.212
+			}
+			, {
+				"date": "2024-03-28"
+				, "percentage": 0.727
+			}
+			, {
+				"date": "2024-03-30"
+				, "percentage": 1
+			}
+		]
+	}
 ]
