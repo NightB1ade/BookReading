@@ -859,4 +859,49 @@
 			}
 		]
 	}
+	, {
+		"title": "Look to Windward"
+		, "subtitle": "Culture Series, Book 7"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780748110032"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2024-03-30"
+				, "percentage": 0.084
+			}
+			, {
+				"date": "2024-04-02"
+				, "percentage": 0.173
+			}
+			, {
+				"date": "2024-04-03"
+				, "percentage": 0.291
+			}
+			, {
+				"date": "2024-04-06"
+				, "percentage": 0.528
+			}
+			, {
+				"date": "2024-04-07"
+				, "percentage": 0.627
+			}
+			, {
+				"date": "2024-04-09"
+				, "percentage": 0.726
+			}
+			, {
+				"date": "2024-04-10"
+				, "percentage": 0.944
+			}
+			, {
+				"date": "2024-04-12"
+				, "percentage": 1
+			}
+		]
+	}
 ]
