@@ -904,4 +904,31 @@
 			}
 		]
 	}
+	, {
+		"title": "Sourcery"
+		, "subtitle": "Discworld, Book 5"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781407034546"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2024-04-13"
+				, "percentage": 0.259
+			}
+			, {
+				"date": "2024-04-14"
+				, "percentage": 0.501
+			}
+			, {
+				"date": "2024-04-15"
+				, "percentage": 1
+			}
+		]
+	}
 ]
