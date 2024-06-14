@@ -931,4 +931,48 @@
 			}
 		]
 	}
+	, {
+		"title": "The Dark Forest"
+		, "subtitle": "The Three-Body Problem, Book 2"
+		, "creators": [
+			"Cixin Liu"
+			, "Joel Martinsen"
+		]
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781784971588"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2024-06-05"
+				, "percentage": 0.099
+			}
+			, {
+				"date": "2024-06-06"
+				, "percentage": 0.167
+			}
+			, {
+				"date": "2024-06-07"
+				, "percentage": 0.218
+			}
+			, {
+				"date": "2024-06-10"
+				, "percentage": 0.319
+			}
+			, {
+				"date": "2024-06-11"
+				, "percentage": 0.465
+			}
+			, {
+				"date": "2024-06-12"
+				, "percentage": 0.799
+			}
+			, {
+				"date": "2024-06-13"
+				, "percentage": 1
+			}
+		]
+	}
 ]
