@@ -975,4 +975,48 @@
 			}
 		]
 	}
+	, {
+		"title": "Death’s End"
+		, "subtitle": "The Three-Body Problem, Book 3"
+		, "creators": [
+			"Cixin Liu"
+			, "Ken Liu"
+		]
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781784971625"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2024-06-21"
+				, "percentage": 0.156
+			}
+			, {
+				"date": "2024-06-23"
+				, "percentage": 0.259
+			}
+			, {
+				"date": "2024-06-24"
+				, "percentage": 0.412
+			}
+			, {
+				"date": "2024-06-25"
+				, "percentage": 0.627
+			}
+			, {
+				"date": "2024-06-26"
+				, "percentage": 0.726
+			}
+			, {
+				"date": "2024-06-27"
+				, "percentage": 0.844
+			}
+			, {
+				"date": "2024-06-28"
+				, "percentage": 1
+			}
+		]
+	}
 ]
