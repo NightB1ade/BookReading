@@ -1021,4 +1021,44 @@
 			}
 		]
 	}
+	, {
+		"title": "Wyrd Sisters"
+		, "subtitle": "Discworld, Book 6"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 365
+		, "notes": [
+			"JRS"
+		]
+		, "isbns": [{
+			"isbn": "9780552152631"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-07-08"
+				, "page": 93
+			}
+			, {
+				"date": "2024-07-09"
+				, "page": 124
+			}
+			, {
+				"date": "2024-07-10"
+				, "page": 190
+			}
+			, {
+				"date": "2024-07-11"
+				, "page": 240
+			}
+			, {
+				"date": "2024-07-12"
+				, "page": 282
+			}
+			, {
+				"date": "2024-07-13"
+				, "page": 365
+			}
+		]
+	}
 ]
