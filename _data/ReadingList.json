@@ -1061,4 +1061,56 @@
 			}
 		]
 	}
+	, {
+		"title": "Pyramids"
+		, "subtitle": "Discworld, Book 7"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 383
+		, "notes": [
+			"JS"
+		]
+		, "isbns": [{
+			"isbn": "9780552152648"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-07-26"
+				, "page": 46
+			}
+			, {
+				"date": "2024-07-27"
+				, "page": 66
+			}
+			, {
+				"date": "2024-07-29"
+				, "page": 90
+			}
+			, {
+				"date": "2024-07-31"
+				, "page": 109
+			}
+			, {
+				"date": "2024-08-01"
+				, "page": 190
+			}
+			, {
+				"date": "2024-08-03"
+				, "page": 212
+			}
+			, {
+				"date": "2024-08-14"
+				, "page": 243
+			}
+			, {
+				"date": "2024-08-15"
+				, "page": 284
+			}
+			, {
+				"date": "2024-08-16"
+				, "page": 383
+			}
+		]
+	}
 ]
