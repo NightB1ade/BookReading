@@ -1153,4 +1153,38 @@
 			}
 		]
 	}
+	, {
+		"title": "High Vaultage"
+		, "creators": [
+			"Chris Sugden"
+			, "Jen Sugden"
+		]
+		, "numPages": 390
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781399604161"
+			, "description": "Hardback"
+		}]
+		, "progress": [{
+				"date": "2024-08-23"
+				, "page": 26
+			}
+			, {
+				"date": "2024-08-24"
+				, "page": 91
+			}
+			, {
+				"date": "2024-08-25"
+				, "page": 252
+			}
+			, {
+				"date": "2024-08-26"
+				, "page": 268
+			}
+			, {
+				"date": "2024-08-27"
+				, "page": 390
+			}
+		]
+	}
 ]
