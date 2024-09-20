@@ -1274,4 +1274,52 @@
 			}
 		]
 	}
+	, {
+		"title": "Moving Pictures"
+		, "subtitle": "Discworld, Book 10"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 396
+		, "notes": [
+			"JS"
+		]
+		, "isbns": [{
+			"isbn": "9780552152945"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-09-13"
+				, "page": 40
+			}
+			, {
+				"date": "2024-09-14"
+				, "page": 105
+			}
+			, {
+				"date": "2024-09-15"
+				, "page": 147
+			}
+			, {
+				"date": "2024-09-16"
+				, "page": 202
+			}
+			, {
+				"date": "2024-09-17"
+				, "page": 232
+			}
+			, {
+				"date": "2024-09-18"
+				, "page": 307
+			}
+			, {
+				"date": "2024-09-19"
+				, "page": 358
+			}
+			, {
+				"date": "2024-09-20"
+				, "page": 396
+			}
+		]
+	}
 ]
