@@ -1200,43 +1200,43 @@
 		}]
 		, "progress": [{
 				"date": "2024-08-28"
-				, "page": 0.095
+				, "percentage": 0.095
 			}
 			, {
 				"date": "2024-08-29"
-				, "page": 0.123
+				, "percentage": 0.123
 			}
 			, {
 				"date": "2024-08-30"
-				, "page": 0.169
+				, "percentage": 0.169
 			}
 			, {
 				"date": "2024-09-01"
-				, "page": 0.251
+				, "percentage": 0.251
 			}
 			, {
 				"date": "2024-09-02"
-				, "page": 0.384
+				, "percentage": 0.384
 			}
 			, {
 				"date": "2024-09-03"
-				, "page": 0.419
+				, "percentage": 0.419
 			}
 			, {
 				"date": "2024-09-04"
-				, "page": 0.550
+				, "percentage": 0.550
 			}
 			, {
 				"date": "2024-09-05"
-				, "page": 0.6
+				, "percentage": 0.6
 			}
 			, {
 				"date": "2024-09-06"
-				, "page": 0.847
+				, "percentage": 0.847
 			}
 			, {
 				"date": "2024-09-07"
-				, "page": 1
+				, "percentage": 1
 			}
 		]
 	}
