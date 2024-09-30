@@ -2,15 +2,23 @@
 ---
 
 <div class="container">
+	{%- assign myYear = "0000" -%}
+	{% for entry in site.data.ReadingList reversed -%}
+		{% for date in entry.progress reversed -%}
+			{% assign myCompareYear = date.date | date: "%Y" -%}
+			{% if myYear != myCompareYear %}
+	{% assign myYear = date.date | date: "%Y" -%}
+	<h1 class="mt-3">{{ myYear }}</h1>
 	<div class="row px-3 me-4">
 		<div class="col col-4"><h3>Title</h3></div>
 		<div class="col col-4"><h3>Subtitle</h3></div>
 		<div class="col col-3"><h3>Creator(s)</h3></div>
 	</div>
-
 	<div class="accordion"
 		id="ReadingListAccordion">
-		{% for entry in site.data.ReadingList reversed -%}
+				{%- break %}
+			{%- endif %}
+		{%- endfor %}
 		<div class="accordion-item">
 			<h2 class="accordion-header">
 				<button class="accordion-button collapsed"
@@ -116,7 +124,7 @@
 				</div>
 			</div>
 		</div>
-		{%- endfor %}
+	{%- endfor %}
 	</div>
 
 
