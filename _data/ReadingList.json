@@ -1322,4 +1322,57 @@
 			}
 		]
 	}
+	, {
+		"title": "Surface Detail"
+		, "subtitle": "Culture Series, Book 9"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780748117338"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2024-09-20"
+				, "percentage": 0.074
+			}
+			, {
+				"date": "2024-09-21"
+				, "percentage": 0.157
+			}
+			, {
+				"date": "2024-09-22"
+				, "percentage": 0.330
+			}
+			, {
+				"date": "2024-09-23"
+				, "percentage": 0.388
+			}
+			, {
+				"date": "2024-09-24"
+				, "percentage": 0.447
+			}
+			, {
+				"date": "2024-09-25"
+				, "percentage": 0.510
+			}
+			, {
+				"date": "2024-09-26"
+				, "percentage": 0.583
+			}
+			, {
+				"date": "2024-09-27"
+				, "percentage": 0.700
+			}
+			, {
+				"date": "2024-09-28"
+				, "percentage": 0.905
+			}
+			, {
+				"date": "2024-09-29"
+				, "percentage": 1
+			}
+		]
+	}
 ]
