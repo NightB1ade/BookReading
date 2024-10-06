@@ -1375,4 +1375,48 @@
 			}
 		]
 	}
+	, {
+		"title": "Reaper Man"
+		, "subtitle": "Discworld, Book 11"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 351
+		, "notes": [
+			"JS"
+		]
+		, "isbns": [{
+			"isbn": "9780552152952"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-09-30"
+				, "page": 41
+			}
+			, {
+				"date": "2024-10-01"
+				, "page": 50
+			}
+			, {
+				"date": "2024-10-02"
+				, "page": 77
+			}
+			, {
+				"date": "2024-10-03"
+				, "page": 124
+			}
+			, {
+				"date": "2024-10-04"
+				, "page": 148
+			}
+			, {
+				"date": "2024-10-05"
+				, "page": 204
+			}
+			, {
+				"date": "2024-10-06"
+				, "page": 351
+			}
+		]
+	}
 ]
