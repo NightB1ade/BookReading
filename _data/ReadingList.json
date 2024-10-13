@@ -1419,4 +1419,46 @@
 			}
 		]
 	}
+	, {
+		"title": "The Final Empire"
+		, "subtitle": "Mistborn, Book 1"
+		, "creators": [
+			"Brandon Sanderson"
+		]
+		, "numPages": 633
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780575089914"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-10-06"
+				, "page": 103
+			}
+			, {
+				"date": "2024-10-07"
+				, "page": 146
+			}
+			, {
+				"date": "2024-10-08"
+				, "page": 184
+			}
+			, {
+				"date": "2024-10-09"
+				, "page": 309
+			}
+			, {
+				"date": "2024-10-10"
+				, "page": 357
+			}
+			, {
+				"date": "2024-10-11"
+				, "page": 457
+			}
+			, {
+				"date": "2024-10-12"
+				, "page": 633
+			}
+		]
+	}
 ]
