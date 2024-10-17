@@ -1461,4 +1461,30 @@
 			}
 		]
 	}
+	, {
+		"title": "Witches Abroad"
+		, "subtitle": "Discworld, Book 12"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 296
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552134651"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-10-13"
+				, "page": 148
+			}
+			, {
+				"date": "2024-10-14"
+				, "page": 227
+			}
+			, {
+				"date": "2024-10-15"
+				, "page": 296
+			}
+		]
+	}
 ]
