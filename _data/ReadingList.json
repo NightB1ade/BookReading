@@ -1533,4 +1533,40 @@
 			}
 		]
 	}
+	, {
+		"title": "Small Gods"
+		, "subtitle": "Discworld, Book 13"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 397
+		, "notes": [
+			"JS"
+		]
+		, "isbns": [{
+			"isbn": "9780552152976"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-10-23"
+				, "page": 35
+			}
+			, {
+				"date": "2024-10-24"
+				, "page": 69
+			}
+			, {
+				"date": "2024-10-25"
+				, "page": 128
+			}
+			, {
+				"date": "2024-10-26"
+				, "page": 228
+			}
+			, {
+				"date": "2024-10-27"
+				, "page": 397
+			}
+		]
+	}
 ]
