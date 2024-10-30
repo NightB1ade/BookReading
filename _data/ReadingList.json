@@ -1569,4 +1569,30 @@
 			}
 		]
 	}
+	, {
+		"title": "April–June 2024"
+		, "subtitle": "Issue 55"
+		, "creators": [
+			"Delayed Gratification"
+		]
+		, "numPages": 120
+		, "notes": []
+		, "issns": [{
+			"issn": "2046-1933"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-10-28"
+				, "page": 39
+			}
+			, {
+				"date": "2024-10-29"
+				, "page": 77
+			}
+			, {
+				"date": "2024-10-30"
+				, "page": 120
+			}
+		]
+	}
 ]
