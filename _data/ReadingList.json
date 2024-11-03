@@ -1595,4 +1595,30 @@
 			}
 		]
 	}
+	, {
+		"title": "Lords and Ladies"
+		, "subtitle": "Discworld, Book 14"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 328
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552138918"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-10-31"
+				, "page": 95
+			}
+			, {
+				"date": "2024-11-01"
+				, "page": 166
+			}
+			, {
+				"date": "2024-11-02"
+				, "page": 328
+			}
+		]
+	}
 ]
