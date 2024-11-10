@@ -1621,4 +1621,50 @@
 			}
 		]
 	}
+	, {
+		"title": "The Hero of Ages"
+		, "subtitle": "Mistborn, Book 3"
+		, "creators": [
+			"Brandon Sanderson"
+		]
+		, "numPages": 725
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780575089945"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-11-03"
+				, "page": 1
+			}
+			, {
+				"date": "2024-11-04"
+				, "page": 83
+			}
+			, {
+				"date": "2024-11-05"
+				, "page": 220
+			}
+			, {
+				"date": "2024-11-06"
+				, "page": 307
+			}
+			, {
+				"date": "2024-11-07"
+				, "page": 359
+			}
+			, {
+				"date": "2024-11-08"
+				, "page": 483
+			}
+			, {
+				"date": "2024-11-09"
+				, "page": 668
+			}
+			, {
+				"date": "2024-11-10"
+				, "page": 725
+			}
+		]
+	}
 ]
