@@ -1667,4 +1667,42 @@
 			}
 		]
 	}
+	, {
+		"title": "Men at Arms"
+		, "subtitle": "Discworld, Book 15"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 356
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552140287"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-11-10"
+				, "page": 32
+			}
+			, {
+				"date": "2024-11-11"
+				, "page": 92
+			}
+			, {
+				"date": "2024-11-12"
+				, "page": 135
+			}
+			, {
+				"date": "2024-11-13"
+				, "page": 210
+			}
+			, {
+				"date": "2024-11-14"
+				, "page": 256
+			}
+			, {
+				"date": "2024-11-15z"
+				, "page": 356
+			}
+		]
+	}
 ]
