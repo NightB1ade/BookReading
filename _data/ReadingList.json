@@ -1705,4 +1705,41 @@
 			}
 		]
 	}
+	, {
+		"title": "Hit the Ground Running"
+		, "creators": [
+			"Kate Ashwin"
+		]
+		, "numPages": 309
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781068503207"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-11-16"
+				, "page": 30
+			}
+			, {
+				"date": "2024-11-17"
+				, "page": 80
+			}
+			, {
+				"date": "2024-11-18"
+				, "page": 126
+			}
+			, {
+				"date": "2024-11-19"
+				, "page": 173
+			}
+			, {
+				"date": "2024-11-20"
+				, "page": 239
+			}
+			, {
+				"date": "2024-11-21"
+				, "page": 309
+			}
+		]
+	}
 ]
