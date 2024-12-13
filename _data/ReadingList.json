@@ -1783,4 +1783,50 @@
 			}
 		]
 	}
+	, {
+		"title": "Soul Music"
+		, "subtitle": "Discworld, Book 16"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 374
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552140294"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2024-12-02"
+				, "page": 39
+			}
+			, {
+				"date": "2024-12-03"
+				, "page": 80
+			}
+			, {
+				"date": "2024-12-04"
+				, "page": 118
+			}
+			, {
+				"date": "2024-12-05"
+				, "page": 140
+			}
+			, {
+				"date": "2024-12-06"
+				, "page": 171
+			}
+			, {
+				"date": "2024-12-07"
+				, "page": 213
+			}
+			, {
+				"date": "2024-12-08"
+				, "page": 244
+			}
+			, {
+				"date": "2024-12-09"
+				, "page": 374
+			}
+		]
+	}
 ]
