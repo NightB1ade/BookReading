@@ -1939,4 +1939,38 @@
 			}
 		]
 	}
+	, {
+		"title": "The Alloy of Law"
+		, "subtitle": "Cosmere: Mistborn, Era 2, Book 1"
+		, "creators": [
+			"Brandon Sanderson"
+		]
+		, "numPages": 326
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780575105829"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-01-07"
+				, "page": 41
+			}
+			, {
+				"date": "2025-01-08"
+				, "page": 76
+			}
+			, {
+				"date": "2025-01-09"
+				, "page": 206
+			}
+			, {
+				"date": "2025-01-10"
+				, "page": 289
+			}
+			, {
+				"date": "2025-01-11"
+				, "page": 326
+			}
+		]
+	}
 ]
