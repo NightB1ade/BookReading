@@ -1973,4 +1973,30 @@
 			}
 		]
 	}
+	, {
+		"title": "July–September 2024"
+		, "subtitle": "Issue 56"
+		, "creators": [
+			"Delayed Gratification"
+		]
+		, "numPages": 120
+		, "notes": []
+		, "issns": [{
+			"issn": "2046-1933"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-01-11"
+				, "page": 36
+			}
+			, {
+				"date": "2025-01-12"
+				, "page": 65
+			}
+			, {
+				"date": "2025-01-13"
+				, "page": 120
+			}
+		]
+	}
 ]
