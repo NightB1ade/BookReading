@@ -1999,4 +1999,69 @@
 			}
 		]
 	}
+	, {
+		"title": "The Hydrogen Sonata"
+		, "subtitle": "Culture Series, Book 10"
+		, "creators": [
+			"Iain M. Banks"
+		]
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781405512848"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-01-14"
+				, "percentage": 0.085
+			}
+			, {
+				"date": "2021-01-15"
+				, "percentage": 0.178
+			}
+			, {
+				"date": "2021-01-16"
+				, "percentage": 0.231
+			}
+			, {
+				"date": "2021-01-17"
+				, "percentage": 0.290
+			}
+			, {
+				"date": "2021-01-19"
+				, "percentage": 0.388
+			}
+			, {
+				"date": "2021-01-20"
+				, "percentage": 0.407
+			}
+			, {
+				"date": "2021-01-21"
+				, "percentage": 0.449
+			}
+			, {
+				"date": "2021-01-22"
+				, "percentage": 0.501
+			}
+			, {
+				"date": "2021-01-23"
+				, "percentage": 0.540
+			}
+			, {
+				"date": "2021-01-24"
+				, "percentage": 0.578
+			}
+			, {
+				"date": "2021-01-25"
+				, "percentage": 0.801
+			}
+			, {
+				"date": "2021-01-26"
+				, "percentage": 0.950
+			}
+			, {
+				"date": "2021-01-27"
+				, "percentage": 1
+			}
+		]
+	}
 ]
