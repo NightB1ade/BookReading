@@ -2064,4 +2064,42 @@
 			}
 		]
 	}
+	, {
+		"title": "The Painted Man"
+		, "subtitle": "The Demon Cycle, Book 1"
+		, "creators": [
+			"Peter V. Brett"
+		]
+		, "numPages": 545
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780007276141"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-01-27"
+				, "page": 34
+			}
+			, {
+				"date": "2025-01-28"
+				, "page": 87
+			}
+			, {
+				"date": "2025-01-29"
+				, "page": 212
+			}
+			, {
+				"date": "2025-01-30"
+				, "page": 242
+			}
+			, {
+				"date": "2025-01-31"
+				, "page": 376
+			}
+			, {
+				"date": "2025-02-01"
+				, "page": 545
+			}
+		]
+	}
 ]
