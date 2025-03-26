@@ -2229,4 +2229,58 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Interesting Times"
+		, "subtitle": "Discworld, Book 17"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 343
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552142359"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-03-13"
+				, "page": 37
+			}
+			, {
+				"date": "2025-03-14"
+				, "page": 70
+			}
+			, {
+				"date": "2025-03-15"
+				, "page": 116
+			}
+			, {
+				"date": "2025-03-16"
+				, "page": 140
+			}
+			, {
+				"date": "2025-03-17"
+				, "page": 168
+			}
+			, {
+				"date": "2025-03-18"
+				, "page": 202
+			}
+			, {
+				"date": "2025-03-22"
+				, "page": 225
+			}
+			, {
+				"date": "2025-03-23"
+				, "page": 249
+			}
+			, {
+				"date": "2025-03-25"
+				, "page": 297
+			}
+			, {
+				"date": "2025-03-26"
+				, "page": 343
+			}
+		]
+	}
 ]
