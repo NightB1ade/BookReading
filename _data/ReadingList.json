@@ -2283,4 +2283,21 @@
 			}
 		]
 	}
+	, {
+		"title": "Dark Waters Rising #1–6"
+		, "subtitle": "Pathfinder Comics #1–6"
+		, "creators": [
+			"Jim Zub"
+			, "Andrew Huerta"
+			, "Ross Campbell"
+			, "Marshall Dillon"
+			, "Jake Bilbao"
+			, "Mohan"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-03-27"
+				, "percentage": 1
+		}]
+	}
 ]
