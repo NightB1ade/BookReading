@@ -2300,4 +2300,21 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Of Tooth & Claw #1–6"
+		, "subtitle": "Pathfinder Comics #7–12"
+		, "creators": [
+			"Jim Zub"
+			, "Jake Bilbao"
+			, "Ross Campbell"
+			, "Marshall Dillon"
+			, "Ivan Anaya"
+			, "Sean Izaakse"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-03-28"
+				, "percentage": 1
+		}]
+	}
 ]
