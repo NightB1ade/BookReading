@@ -2332,4 +2332,19 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Night on the Town"
+		, "subtitle": "Pathfinder Comics Special 2013"
+		, "creators": [
+			"Jim Zub"
+			, "Kevin Stokes"
+			, "Mohan"
+			, "Marshall Dillon"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-03-28"
+				, "percentage": 1
+		}]
+	}
 ]
