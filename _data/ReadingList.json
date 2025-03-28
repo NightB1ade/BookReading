@@ -2317,4 +2317,19 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Bad Alchemy"
+		, "subtitle": "Pathfinder Comics: Fumbus"
+		, "creators": [
+			"Fred Van Lente"
+			, "Tom Garcia"
+			, "Vinicius Townsend"
+			, "Tom Napolitano"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-03-28"
+				, "percentage": 1
+		}]
+	}
 ]
