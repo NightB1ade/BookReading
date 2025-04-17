@@ -2350,4 +2350,58 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "The Desert Spear"
+		, "subtitle": "The Demon Cycle, Book 2"
+		, "creators": [
+			"Peter V. Brett"
+		]
+		, "numPages": 639
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780345503817"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-03-29"
+				, "page": 33
+			}
+			, {
+				"date": "2025-03-30"
+				, "page": 74
+			}
+			, {
+				"date": "2025-04-01"
+				, "page": 128
+			}
+			, {
+				"date": "2025-04-02"
+				, "page": 203
+			}
+			, {
+				"date": "2025-04-07"
+				, "page": 268
+			}
+			, {
+				"date": "2025-04-08"
+				, "page": 392
+			}
+			, {
+				"date": "2025-04-09"
+				, "page": 412
+			}
+			, {
+				"date": "2025-04-11"
+				, "page": 490
+			}
+			, {
+				"date": "2025-04-12"
+				, "page": 525
+			}
+			, {
+				"date": "2025-04-16"
+				, "page": 639
+			}
+		]
+	}
 ]
