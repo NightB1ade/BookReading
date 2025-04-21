@@ -2404,4 +2404,19 @@
 			}
 		]
 	}
+	, {
+		"title": "City of Secrets #1–6"
+		, "subtitle": "Pathfinder Comics"
+		, "creators": [
+			"Jim Zub"
+			, "Leandro Oliveira"
+			, "Ross Campbell"
+			, "Marshall Dillon"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-04-21"
+				, "percentage": 1
+		}]
+	}
 ]
