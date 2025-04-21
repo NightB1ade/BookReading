@@ -2419,4 +2419,44 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Pathfinder Goblins! #1–5"
+		, "subtitle": "Pathfinder Comics"
+		, "creators": [
+			"Adam Warren"
+			, "Carlos Gomez"
+			, "Teo Gonzalez"
+			, "Marshall Dillon"
+			, "Erik Mona"
+			, "Shane White"
+			, "Mark Roberts"
+			, "Charles Soule"
+			, "Alberto Jiménez Alburquerque"
+			, "Ross Campbell"
+			, "James L. Sutter"
+			, "Sean Izaakse"
+			, "Thomas Bonvillain"
+			, "Ron Marz"
+			, "Lee Moder"
+			, "Craig Rousseau"
+			, "Jennifer Meyer"
+			, "Ray Fawkes"
+			, "Jeremy Holt"
+			, "Christian Meesey"
+			, "F. Wesley Schneider"
+			, "Iainai Jeffries"
+			, "Tamra Bonvillain"
+			, "Paul Allor"
+			, "Adam Moore"
+			, "Eric Trautmann"
+			, "Larry White"
+			, "Kevin Stokes"
+			, "Mohan"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-04-21"
+				, "percentage": 1
+		}]
+	}
 ]
