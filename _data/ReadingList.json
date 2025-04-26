@@ -2459,4 +2459,34 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "October–December 2024"
+		, "subtitle": "Issue 57"
+		, "creators": [
+			"Delayed Gratification"
+		]
+		, "numPages": 120
+		, "notes": []
+		, "issns": [{
+			"issn": "2046-1933"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-04-21"
+				, "page": 17
+			}
+			, {
+				"date": "2025-04-22"
+				, "page": 55
+			}
+			, {
+				"date": "2025-04-24"
+				, "page": 71
+			}
+			, {
+				"date": "2025-04-25"
+				, "page": 120
+			}
+		]
+	}
 ]
