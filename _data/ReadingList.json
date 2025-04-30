@@ -2489,4 +2489,22 @@
 			}
 		]
 	}
+	, {
+		"title": "Hollow Mountain #1–5"
+		, "subtitle": "Pathfinder Comics"
+		, "creators": [
+			"James L. Sutter"
+			, "Tom Garcia"
+			, "Mohan"
+			, "Bill Tortolini"
+			, "F. Wesley Schneider"
+			, "Erik Mona"
+			, "Sean Izaakse"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-04-30"
+				, "percentage": 1
+		}]
+	}
 ]
