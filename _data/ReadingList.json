@@ -2507,4 +2507,20 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Runescars #1–5"
+		, "subtitle": "Pathfinder Comics"
+		, "creators": [
+			"F. Wesley Schneider"
+			, "Ediano Silva"
+			, "Omi Remalante"
+			, "Tom Napolitano"
+			, "James L. Sutter"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-05-04"
+				, "percentage": 1
+		}]
+	}
 ]
