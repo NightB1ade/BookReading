@@ -2538,4 +2538,19 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Wake the Dead #1–5"
+		, "subtitle": "Pathfinder Comics"
+		, "creators": [
+			"Fred Van Lente"
+			, "Eman Casallos"
+			, "Jorge Sutil"
+			, "Tom Napolitano"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-05-11"
+				, "percentage": 1
+		}]
+	}
 ]
