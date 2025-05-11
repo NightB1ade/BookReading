@@ -2523,4 +2523,19 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Spiral of Bones #1–5"
+		, "subtitle": "Pathfinder Comics"
+		, "creators": [
+			"Crystal Frasier"
+			, "Tom Garcia"
+			, "Morgan Hickman"
+			, "Thomas Napolitano"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-05-10"
+				, "percentage": 1
+		}]
+	}
 ]
