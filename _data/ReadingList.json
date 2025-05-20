@@ -2572,4 +2572,19 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "Pathfinder Worldscape #1–6"
+		, "subtitle": "Pathfinder Comics"
+		, "creators": [
+			"Erik Mona"
+			, "Jonathan Lau"
+			, "Omi Remalante"
+			, "Simon Bowland"
+		]
+		, "notes": []
+		, "progress": [{
+				"date": "2025-05-20"
+				, "percentage": 1
+		}]
+	}
 ]
