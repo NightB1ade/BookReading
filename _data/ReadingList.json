@@ -2587,4 +2587,26 @@
 				, "percentage": 1
 		}]
 	}
+	, {
+		"title": "January–March 2025"
+		, "subtitle": "Issue 58"
+		, "creators": [
+			"Delayed Gratification"
+		]
+		, "numPages": 120
+		, "notes": []
+		, "issns": [{
+			"issn": "2046-1933"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-08-25"
+				, "page": 55
+			}
+			, {
+				"date": "2025-08-26"
+				, "page": 120
+			}
+		]
+	}
 ]
