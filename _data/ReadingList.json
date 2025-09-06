@@ -2609,4 +2609,34 @@
 			}
 		]
 	}
+	, {
+		"title": "Maskerade"
+		, "subtitle": "Discworld, Book 18"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 382
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552142366"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-08-27"
+				, "page": 67
+			}
+			, {
+				"date": "2025-08-28"
+				, "page": 112
+			}
+			, {
+				"date": "2025-08-29"
+				, "page": 159
+			}
+			, {
+				"date": "2025-08-31"
+				, "page": 382
+			}
+		]
+	}
 ]
