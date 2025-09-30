@@ -2639,4 +2639,66 @@
 			}
 		]
 	}
+	, {
+		"title": "Shadows of Self"
+		, "subtitle": "Cosmere: Mistborn, Era 2, Book 2"
+		, "creators": [
+			"Brandon Sanderson"
+		]
+		, "numPages": 384
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781473208230"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-09-01"
+				, "page": 39
+			}
+			, {
+				"date": "2025-09-02"
+				, "page": 79
+			}
+			, {
+				"date": "2025-09-03"
+				, "page": 108
+			}
+			, {
+				"date": "2025-09-04"
+				, "page": 126
+			}
+			, {
+				"date": "2025-09-05"
+				, "page": 153
+			}
+			, {
+				"date": "2025-09-07"
+				, "page": 177
+			}
+			, {
+				"date": "2025-09-08"
+				, "page": 211
+			}
+			, {
+				"date": "2025-09-10"
+				, "page": 227
+			}
+			, {
+				"date": "2025-09-12"
+				, "page": 267
+			}
+			, {
+				"date": "2025-09-22"
+				, "page": 290
+			}
+			, {
+				"date": "2025-09-27"
+				, "page": 322
+			}
+			, {
+				"date": "2025-09-28"
+				, "page": 384
+			}
+		]
+	}
 ]
