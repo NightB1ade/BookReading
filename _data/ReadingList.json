@@ -2701,4 +2701,50 @@
 			}
 		]
 	}
+	, {
+		"title": "The Bands of Mourning"
+		, "subtitle": "Cosmere: Mistborn, Era 2, Book 3"
+		, "creators": [
+			"Brandon Sanderson"
+		]
+		, "numPages": 447
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781473208278"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-09-29"
+				, "page": 58
+			}
+			, {
+				"date": "2025-09-30"
+				, "page": 143
+			}
+			, {
+				"date": "2025-10-01"
+				, "page": 169
+			}
+			, {
+				"date": "2025-10-02"
+				, "page": 202
+			}
+			, {
+				"date": "2025-10-03"
+				, "page": 233
+			}
+			, {
+				"date": "2025-10-06"
+				, "page": 271
+			}
+			, {
+				"date": "2025-10-07"
+				, "page": 339
+			}
+			, {
+				"date": "2025-10-08"
+				, "page": 447
+			}
+		]
+	}
 ]
