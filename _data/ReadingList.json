@@ -2797,4 +2797,30 @@
 			}
 		]
 	}
+	, {
+		"title": "April–June 2025"
+		, "subtitle": "Issue 59"
+		, "creators": [
+			"Delayed Gratification"
+		]
+		, "numPages": 120
+		, "notes": []
+		, "issns": [{
+			"issn": "2046-1933"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-10-20"
+				, "page": 21
+			}
+			, {
+				"date": "2025-10-21"
+				, "page": 79
+			}
+			, {
+				"date": "2025-10-22"
+				, "page": 120
+			}
+		]
+	}
 ]
