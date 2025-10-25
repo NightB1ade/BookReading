@@ -2881,4 +2881,23 @@
 			}
 		]
 	}
+	, {
+		"title": "The Wicked + The Divine, Book 4"
+		, "creators": [
+			"Kieron Gillen"
+			, "Jamie McKelvie"
+			, "Matt Wilson"
+		]
+		, "numPages": 680
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781534302204"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-24"
+				, "page": 680
+			}
+		]
+	}
 ]
