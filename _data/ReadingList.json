@@ -2823,4 +2823,24 @@
 			}
 		]
 	}
+	, {
+		"title": "The Wicked + The Divine, Book 1"
+		, "creators": [
+			"Kieron Gillen"
+			, "Jamie McKelvie"
+			, "Clayton Cowles"
+			, "Matt Wilson"
+		]
+		, "numPages": 400
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781632157287"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-23"
+				, "page": 400
+			}
+		]
+	}
 ]
