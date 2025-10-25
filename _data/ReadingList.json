@@ -2862,4 +2862,23 @@
 			}
 		]
 	}
+	, {
+		"title": "The Wicked + The Divine, Book 3"
+		, "creators": [
+			"Kieron Gillen"
+			, "Clayton Cowles"
+			, "Matt Wilson"
+		]
+		, "numPages": 400
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781534302204"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-24"
+				, "page": 400
+			}
+		]
+	}
 ]
