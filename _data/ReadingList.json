@@ -2900,4 +2900,23 @@
 			}
 		]
 	}
+	, {
+		"title": "We Called Them Giants"
+		, "creators": [
+			"Kieron Gillen"
+			, "Stephanie Hans"
+			, "Clayton Cowles"
+		]
+		, "numPages": 104
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781534387072"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-25"
+				, "page": 104
+			}
+		]
+	}
 ]
