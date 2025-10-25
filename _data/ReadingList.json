@@ -2843,4 +2843,23 @@
 			}
 		]
 	}
+	, {
+		"title": "The Wicked + The Divine, Book 2"
+		, "creators": [
+			"Kieron Gillen"
+			, "Jamie McKelvie"
+			, "Clayton Cowles"
+		]
+		, "numPages": 400
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781534302204"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-23"
+				, "page": 400
+			}
+		]
+	}
 ]
