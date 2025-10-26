@@ -2919,4 +2919,27 @@
 			}
 		]
 	}
+	, {
+		"title": "Die, Volume 1: Fantasy Heartbreaker"
+		, "creators": [
+			"Kieron Gillen"
+			, "Stephanie Hans"
+			, "Clayton Cowles"
+		]
+		, "numPages": 188
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781534312708"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-25"
+				, "page": 129
+			}
+			, {
+				"date": "2025-10-26"
+				, "page": 188
+			}
+		]
+	}
 ]
