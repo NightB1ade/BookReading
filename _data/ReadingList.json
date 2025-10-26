@@ -2942,4 +2942,23 @@
 			}
 		]
 	}
+	, {
+		"title": "Die, Volume 2: Split the Party"
+		, "creators": [
+			"Kieron Gillen"
+			, "Stephanie Hans"
+			, "Clayton Cowles"
+		]
+		, "numPages": 164
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781534314979"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-26"
+				, "page": 164
+			}
+		]
+	}
 ]
