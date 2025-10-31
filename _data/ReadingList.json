@@ -2984,4 +2984,27 @@
 			}
 		]
 	}
+	, {
+		"title": "Die, Volume 4: Bleed"
+		, "creators": [
+			"Kieron Gillen"
+			, "Stephanie Hans"
+			, "Clayton Cowles"
+		]
+		, "numPages": 172
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781534319264"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-10-30"
+				, "page": 42
+			}
+			, {
+				"date": "2025-10-31"
+				, "page": 172
+			}
+		]
+	}
 ]
