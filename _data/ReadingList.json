@@ -3047,4 +3047,26 @@
 			}
 		]
 	}
+	, {
+		"title": "The Power Fantasy, Volume 2: Mutually Reassuring Destruction"
+		, "creators": [
+			"Kieron Gillen"
+			, "Caspar Wijngaard"
+			, "Clayton Cowles"
+			, "Rian Hughes"
+		]
+		, "numPages": 163
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781534333109"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-01"
+				, "page": 163
+			}
+		]
+	}
 ]
