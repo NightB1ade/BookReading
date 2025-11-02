@@ -3069,4 +3069,26 @@
 			}
 		]
 	}
+	, {
+		"title": "Home Sick Pilots, Volume 1: Teenage Haunts"
+		, "creators": [
+			"Dan Watters"
+			, "Caspar Wijngaard"
+			, "Aditya Bidikar"
+			, "Tom Muller"
+		]
+		, "numPages": 156
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781534318922"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-01"
+				, "page": 156
+			}
+		]
+	}
 ]
