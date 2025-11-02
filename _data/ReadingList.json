@@ -3117,4 +3117,26 @@
 			}
 		]
 	}
+	, {
+		"title": "Home Sick Pilots, Volume 3: Three Chords and the End of the World"
+		, "creators": [
+			"Dan Watters"
+			, "Caspar Wijngaard"
+			, "Aditya Bidikar"
+			, "Tom Muller"
+		]
+		, "numPages": 148
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781534323131"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-02"
+				, "page": 148
+			}
+		]
+	}
 ]
