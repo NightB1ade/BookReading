@@ -3091,4 +3091,30 @@
 			}
 		]
 	}
+	, {
+		"title": "Home Sick Pilots, Volume 2: I Wanna Be a Walking Weapon"
+		, "creators": [
+			"Dan Watters"
+			, "Caspar Wijngaard"
+			, "Aditya Bidikar"
+			, "Tom Muller"
+		]
+		, "numPages": 132
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781534320529"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-01"
+				, "page": 97
+			}
+			, {
+				"date": "2025-11-02"
+				, "page": 132
+			}
+		]
+	}
 ]
