@@ -3139,4 +3139,23 @@
 			}
 		]
 	}
+	, {
+		"title": "Once & Future, Volume 1: The King is Undead"
+		, "creators": [
+			"Kieron Gillen"
+			, "Dan Mora"
+			, "Tamra Bonvillain"
+		]
+		, "numPages": 160
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781684154913"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-04"
+				, "page": 160
+			}
+		]
+	}
 ]
