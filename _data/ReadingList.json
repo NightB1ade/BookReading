@@ -3177,4 +3177,23 @@
 			}
 		]
 	}
+	, {
+		"title": "Once & Future, Volume 3: The Parliament of Magpies"
+		, "creators": [
+			"Kieron Gillen"
+			, "Dan Mora"
+			, "Tamra Bonvillain"
+		]
+		, "numPages": 161
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781684157037"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-04"
+				, "page": 161
+			}
+		]
+	}
 ]
