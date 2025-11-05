@@ -3196,4 +3196,27 @@
 			}
 		]
 	}
+	, {
+		"title": "Once & Future, Volume 4: Monarchies in the U.K."
+		, "creators": [
+			"Kieron Gillen"
+			, "Dan Mora"
+			, "Tamra Bonvillain"
+		]
+		, "numPages": 162
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781684158294"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-04"
+				, "page": 33
+			}
+			, {
+				"date": "2025-11-05"
+				, "page": 162
+			}
+		]
+	}
 ]
