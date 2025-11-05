@@ -3219,4 +3219,23 @@
 			}
 		]
 	}
+	, {
+		"title": "Once & Future, Volume 5: The Wasteland"
+		, "creators": [
+			"Kieron Gillen"
+			, "Dan Mora"
+			, "Tamra Bonvillain"
+		]
+		, "numPages": 159
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781684158621"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2025-11-05"
+				, "page": 159
+			}
+		]
+	}
 ]
