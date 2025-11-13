@@ -3238,4 +3238,54 @@
 			}
 		]
 	}
+	, {
+		"title": "Hogfather"
+		, "subtitle": "Discworld, Book 20"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 403
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552145428"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-10-22"
+				, "page": 29
+			}
+			, {
+				"date": "2025-10-24"
+				, "page": 51
+			}
+			, {
+				"date": "2025-11-02"
+				, "page": 79
+			}
+			, {
+				"date": "2025-11-03"
+				, "page": 137
+			}
+			, {
+				"date": "2025-11-06"
+				, "page": 207
+			}
+			, {
+				"date": "2025-11-09"
+				, "page": 230
+			}
+			, {
+				"date": "2025-11-10"
+				, "page": 275
+			}
+			, {
+				"date": "2025-11-11"
+				, "page": 338
+			}
+			, {
+				"date": "2025-11-12"
+				, "page": 403
+			}
+		]
+	}
 ]
