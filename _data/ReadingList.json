@@ -3288,4 +3288,42 @@
 			}
 		]
 	}
+	, {
+		"title": "Jingo"
+		, "subtitle": "Discworld, Book 21"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 378
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552167598"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-11-12"
+				, "page": 6
+			}
+			, {
+				"date": "2025-11-13"
+				, "page": 71
+			}
+			, {
+				"date": "2025-11-14"
+				, "page": 115
+			}
+			, {
+				"date": "2025-11-16"
+				, "page": 232
+			}
+			, {
+				"date": "2025-11-17"
+				, "page": 303
+			}
+			, {
+				"date": "2025-11-18"
+				, "page": 378
+			}
+		]
+	}
 ]
