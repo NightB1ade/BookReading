@@ -3326,4 +3326,62 @@
 			}
 		]
 	}
+	, {
+		"title": "The Last Continent"
+		, "subtitle": "Discworld, Book 22"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 393
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9780552146142"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-11-22"
+				, "page": 10
+			}
+			, {
+				"date": "2025-11-23"
+				, "page": 31
+			}
+			, {
+				"date": "2025-11-26"
+				, "page": 62
+			}
+			, {
+				"date": "2025-11-29"
+				, "page": 109
+			}
+			, {
+				"date": "2025-12-03"
+				, "page": 172
+			}
+			, {
+				"date": "2025-12-04"
+				, "page": 207
+			}
+			, {
+				"date": "2025-12-05"
+				, "page": 233
+			}
+			, {
+				"date": "2025-12-06"
+				, "page": 271
+			}
+			, {
+				"date": "2025-12-07"
+				, "page": 311
+			}
+			, {
+				"date": "2025-12-08"
+				, "page": 328
+			}
+			, {
+				"date": "2025-12-14"
+				, "page": 393
+			}
+		]
+	}
 ]
