@@ -3384,4 +3384,34 @@
 			}
 		]
 	}
+	, {
+		"title": "Mistborn: Secret History"
+		, "subtitle": "Cosmere: Mistborn, Era 1, Book 3.5"
+		, "creators": [
+			"Brandon Sanderson"
+		]
+		, "numPages": 152
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781938570124"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2025-12-15"
+				, "page": 34
+			}
+			, {
+				"date": "2025-12-16"
+				, "page": 84
+			}
+			, {
+				"date": "2025-12-20"
+				, "page": 96
+			}
+			, {
+				"date": "2025-12-25"
+				, "page": 152
+			}
+		]
+	}
 ]
