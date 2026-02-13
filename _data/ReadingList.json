@@ -3464,4 +3464,30 @@
 			}
 		]
 	}
+	, {
+		"title": "Edgedancer"
+		, "subtitle": "Cosmere: The Stormlight Archive, Short Works"
+		, "creators": [
+			"Brandon Sanderson"
+		]
+		, "numPages": 268
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781473226593"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-02-08"
+				, "page": 167
+			}
+			, {
+				"date": "2026-02-10"
+				, "page": 211
+			}
+			, {
+				"date": "2026-02-11"
+				, "page": 268
+			}
+		]
+	}
 ]
