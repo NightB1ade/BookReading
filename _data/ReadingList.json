@@ -578,7 +578,7 @@
 		, "numPages": 287
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552166591"
+			"isbn": "9781407034379"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -695,7 +695,7 @@
 			"Cambridgeshire Libraries"
 		]
 		, "isbns": [{
-			"isbn": "6781407034393"
+			"isbn": "9781407034393"
 			, "description": "eBook"
 		}]
 		, "progress": [{
@@ -731,8 +731,8 @@
 			"Cambridgeshire Libraries"
 		]
 		, "isbns": [{
-			"isbn": "9780552166614"
-			, "description": "Paperback"
+			"isbn": "9781407034478"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-02-26"
@@ -1032,8 +1032,8 @@
 			"JS"
 		]
 		, "isbns": [{
-			"isbn": "9780552152631"
-			, "description": "Paperback"
+			"isbn": "9780552134606"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-07-08"
@@ -1072,8 +1072,8 @@
 			"JS"
 		]
 		, "isbns": [{
-			"isbn": "9780552152648"
-			, "description": "Paperback"
+			"isbn": "9781407034669"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-07-26"
@@ -1124,8 +1124,8 @@
 			"JS"
 		]
 		, "isbns": [{
-			"isbn": "9780552152938"
-			, "description": "Paperback"
+			"isbn": "9781407034690"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-08-17"
@@ -1249,7 +1249,7 @@
 		, "numPages": 147
 		, "notes": []
 		, "isbns": [{
-			"isbn": "1857989546"
+			"isbn": "9780575123151"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -1285,8 +1285,8 @@
 			"JS"
 		]
 		, "isbns": [{
-			"isbn": "9780552152945"
-			, "description": "Paperback"
+			"isbn": "9781407034737"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-09-13"
@@ -1386,8 +1386,8 @@
 			"JS"
 		]
 		, "isbns": [{
-			"isbn": "9780552152952"
-			, "description": "Paperback"
+			"isbn": "9781407034775"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-09-30"
@@ -1428,7 +1428,7 @@
 		, "numPages": 633
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780575089914"
+			"isbn": "9780575097742"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -1470,8 +1470,8 @@
 		, "numPages": 296
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552134651"
-			, "description": "Paperback"
+			"isbn": "9781407034805"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-10-13"
@@ -1496,7 +1496,7 @@
 		, "numPages": 782
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780575089938"
+			"isbn": "9780575097759"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -1544,8 +1544,8 @@
 			"JS"
 		]
 		, "isbns": [{
-			"isbn": "9780552152976"
-			, "description": "Paperback"
+			"isbn": "9781407034669"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-10-23"
@@ -1604,8 +1604,8 @@
 		, "numPages": 328
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552138918"
-			, "description": "Paperback"
+			"isbn": "9781407034874"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-10-31"
@@ -1630,7 +1630,7 @@
 		, "numPages": 725
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780575089945"
+			"isbn": "9780575097766"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -1676,8 +1676,8 @@
 		, "numPages": 356
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552140287"
-			, "description": "Paperback"
+			"isbn": "9781407034904"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-11-10"
@@ -1792,8 +1792,8 @@
 		, "numPages": 374
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552140294"
-			, "description": "Paperback"
+			"isbn": "9781407034935"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2024-12-02"
@@ -1838,7 +1838,7 @@
 		, "numPages": 1005
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780575097346"
+			"isbn": "9780575097384"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -1948,7 +1948,7 @@
 		, "numPages": 326
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780575105829"
+			"isbn": "9780575105843"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -2073,8 +2073,8 @@
 		, "numPages": 545
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780007276141"
-			, "description": "Paperback"
+			"isbn": "9780007287758"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-01-27"
@@ -2111,7 +2111,7 @@
 		, "numPages": 1126
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9781473208995"
+			"isbn": "9780575097438"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -2241,8 +2241,8 @@
 		, "numPages": 343
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552142359"
-			, "description": "Paperback"
+			"isbn": "9781407034966"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-03-13"
@@ -2359,8 +2359,8 @@
 		, "numPages": 639
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780345503817"
-			, "description": "Paperback"
+			"isbn": "9780007301904"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-03-29"
@@ -2618,8 +2618,8 @@
 		, "numPages": 382
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552142366"
-			, "description": "Paperback"
+			"isbn": "9781407034997"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-08-27"
@@ -2648,7 +2648,7 @@
 		, "numPages": 384
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9781473208230"
+			"isbn": "9781473208247"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -2710,7 +2710,7 @@
 		, "numPages": 447
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9781473208278"
+			"isbn": "9781473208285"
 			, "description": "Paperback"
 		}]
 		, "progress": [{
@@ -2756,8 +2756,8 @@
 		, "numPages": 393
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552142373"
-			, "description": "Paperback"
+			"isbn": "9781407035024"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-10-09"
@@ -3247,8 +3247,8 @@
 		, "numPages": 403
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552145428"
-			, "description": "Paperback"
+			"isbn": "9781407035055"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-10-22"
@@ -3297,8 +3297,8 @@
 		, "numPages": 378
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552167598"
-			, "description": "Paperback"
+			"isbn": "9781407035086"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-11-12"
@@ -3335,8 +3335,8 @@
 		, "numPages": 393
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552146142"
-			, "description": "Paperback"
+			"isbn": "9781407035123"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2025-11-22"
@@ -3423,8 +3423,8 @@
 		, "numPages": 410
 		, "notes": []
 		, "isbns": [{
-			"isbn": "9780552167611"
-			, "description": "Paperback"
+			"isbn": "9781407035161"
+			, "description": "eBook"
 		}]
 		, "progress": [{
 				"date": "2026-01-19"
