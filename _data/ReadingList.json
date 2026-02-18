@@ -3490,4 +3490,42 @@
 			}
 		]
 	}
+	, {
+		"title": "The Fifth Elephant"
+		, "subtitle": "Discworld, Book 24"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 456
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781407035208"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-02-12"
+				, "page": 17
+			}
+			, {
+				"date": "2026-02-13"
+				, "page": 48
+			}
+			, {
+				"date": "2026-02-14"
+				, "page": 79
+			}
+			, {
+				"date": "2026-02-15"
+				, "page": 216
+			}
+			, {
+				"date": "2026-02-16"
+				, "page": 327
+			}
+			, {
+				"date": "2026-02-17"
+				, "page": 456
+			}
+		]
+	}
 ]
