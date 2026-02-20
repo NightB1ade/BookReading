@@ -3528,4 +3528,30 @@
 			}
 		]
 	}
+	, {
+		"title": "July–September 2025"
+		, "subtitle": "Issue 60"
+		, "creators": [
+			"Delayed Gratification"
+		]
+		, "numPages": 120
+		, "notes": []
+		, "issns": [{
+			"issn": "2046-1933"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2026-02-18"
+				, "page": 9
+			}
+			, {
+				"date": "2026-02-19"
+				, "page": 77
+			}
+			, {
+				"date": "2026-02-20"
+				, "page": 120
+			}
+		]
+	}
 ]
