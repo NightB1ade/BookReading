@@ -3684,4 +3684,30 @@
 			}
 		]
 	}
+	, {
+		"title": "October–December 2025"
+		, "subtitle": "Issue 61"
+		, "creators": [
+			"Delayed Gratification"
+		]
+		, "numPages": 120
+		, "notes": []
+		, "issns": [{
+			"issn": "2046-1933"
+			, "description": "Paperback"
+		}]
+		, "progress": [{
+				"date": "2026-04-13"
+				, "page": 6
+			}
+			, {
+				"date": "2026-04-15"
+				, "page": 53
+			}
+			, {
+				"date": "2026-04-17"
+				, "page": 120
+			}
+		]
+	}
 ]
