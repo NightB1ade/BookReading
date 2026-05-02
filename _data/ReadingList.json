@@ -3710,4 +3710,58 @@
 			}
 		]
 	}
+	, {
+		"title": "The Truth"
+		, "subtitle": "Discworld, Book 25"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 349
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781407035246"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-04-17"
+				, "page": 36
+			}
+			, {
+				"date": "2026-04-18"
+				, "page": 97
+			}
+			, {
+				"date": "2026-04-19"
+				, "page": 133
+			}
+			, {
+				"date": "2026-04-20"
+				, "page": 163
+			}
+			, {
+				"date": "2026-04-23"
+				, "page": 175
+			}
+			, {
+				"date": "2026-04-25"
+				, "page": 203
+			}
+			, {
+				"date": "2026-04-26"
+				, "page": 229
+			}
+			, {
+				"date": "2026-04-27"
+				, "page": 280
+			}
+			, {
+				"date": "2026-04-30"
+				, "page": 325
+			}
+			, {
+				"date": "2026-05-01"
+				, "page": 349
+			}
+		]
+	}
 ]
