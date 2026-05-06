@@ -3764,4 +3764,26 @@
 			}
 		]
 	}
+	, {
+		"title": "The Power Fantasy, Volume 3: The End of History"
+		, "creators": [
+			"Kieron Gillen"
+			, "Caspar Wijngaard"
+			, "Clayton Cowles"
+			, "Rian Hughes"
+		]
+		, "numPages": 142
+		, "notes": [
+			"Cambridgeshire Libraries"
+		]
+		, "isbns": [{
+			"isbn": "9781534330849"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-05-06"
+				, "page": 142
+			}
+		]
+	}
 ]
