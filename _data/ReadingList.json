@@ -3786,4 +3786,70 @@
 			}
 		]
 	}
+	, {
+		"title": "The Thief of Time"
+		, "subtitle": "Discworld, Book 26"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 358
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781407035284"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-05-02"
+				, "page": 28
+			}
+			, {
+				"date": "2026-05-03"
+				, "page": 57
+			}
+			, {
+				"date": "2026-05-04"
+				, "page": 67
+			}
+			, {
+				"date": "2026-05-07"
+				, "page": 99
+			}
+			, {
+				"date": "2026-05-09"
+				, "page": 170
+			}
+			, {
+				"date": "2026-05-10"
+				, "page": 197
+			}
+			, {
+				"date": "2026-05-12"
+				, "page": 213
+			}
+			, {
+				"date": "2026-05-13"
+				, "page": 231
+			}
+			, {
+				"date": "2026-05-13"
+				, "page": 248
+			}
+			, {
+				"date": "2026-05-16"
+				, "page": 281
+			}
+			, {
+				"date": "2026-05-17"
+				, "page": 309
+			}
+			, {
+				"date": "2026-05-18"
+				, "page": 331
+			}
+			, {
+				"date": "2026-05-19"
+				, "page": 358
+			}
+		]
+	}
 ]
