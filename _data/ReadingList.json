@@ -3852,4 +3852,30 @@
 			}
 		]
 	}
+	, {
+		"title": "The Last Hero"
+		, "subtitle": "Discworld, Book 27"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 160
+		, "notes": []
+		, "isbns": [{
+			"isbn": "0575073705"
+			, "description": "Deluxe Edition"
+		}]
+		, "progress": [{
+				"date": "2026-05-22"
+				, "page": 50
+			}
+			, {
+				"date": "2026-06-22"
+				, "page": 84
+			}
+			, {
+				"date": "2026-06-27"
+				, "page": 160
+			}
+		]
+	}
 ]
