@@ -3878,4 +3878,42 @@
 			}
 		]
 	}
+	, {
+		"title": "The Amazing Maurice and His Educated Rodents"
+		, "subtitle": "Discworld, Book 28"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 279
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781407070506"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-07-05"
+				, "page": 22
+			}
+			, {
+				"date": "2026-07-06"
+				, "page": 75
+			}
+			, {
+				"date": "2026-07-07"
+				, "page": 111
+			}
+			, {
+				"date": "2026-07-08"
+				, "page": 187
+			}
+			, {
+				"date": "2026-07-09"
+				, "page": 219
+			}
+			, {
+				"date": "2026-07-10"
+				, "page": 279
+			}
+		]
+	}
 ]
