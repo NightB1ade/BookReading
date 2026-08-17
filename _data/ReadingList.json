@@ -3916,4 +3916,70 @@
 			}
 		]
 	}
+	, {
+		"title": "Night Watch"
+		, "subtitle": "Discworld, Book 29"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 339
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781407035321"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-07-11"
+				, "page": 10
+			}
+			, {
+				"date": "2026-07-12"
+				, "page": 18
+			}
+			, {
+				"date": "2026-07-26"
+				, "page": 36
+			}
+			, {
+				"date": "2026-07-27"
+				, "page": 72
+			}
+			, {
+				"date": "2026-07-29"
+				, "page": 81
+			}
+			, {
+				"date": "2026-07-30"
+				, "page": 95
+			}
+			, {
+				"date": "2026-08-06"
+				, "page": 144
+			}
+			, {
+				"date": "2026-08-08"
+				, "page": 161
+			}
+			, {
+				"date": "2026-08-09"
+				, "page": 206
+			}
+			, {
+				"date": "2026-08-10"
+				, "page": 254
+			}
+			, {
+				"date": "2026-08-13"
+				, "page": 283
+			}
+			, {
+				"date": "2026-08-14"
+				, "page": 311
+			}
+			, {
+				"date": "2026-08-16"
+				, "page": 339
+			}
+		]
+	}
 ]
