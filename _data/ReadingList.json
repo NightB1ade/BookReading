@@ -3982,4 +3982,38 @@
 			}
 		]
 	}
+	, {
+		"title": "The Wee Free Men"
+		, "subtitle": "Discworld, Book 30"
+		, "creators": [
+			"Terry Pratchett"
+		]
+		, "numPages": 391
+		, "notes": []
+		, "isbns": [{
+			"isbn": "9781407042466"
+			, "description": "eBook"
+		}]
+		, "progress": [{
+				"date": "2026-08-26"
+				, "page": 86
+			}
+			, {
+				"date": "2026-08-27"
+				, "page": 230
+			}
+			, {
+				"date": "2026-08-30"
+				, "page": 283
+			}
+			, {
+				"date": "2026-09-01"
+				, "page": 322
+			}
+			, {
+				"date": "2026-09-02"
+				, "page": 391
+			}
+		]
+	}
 ]
